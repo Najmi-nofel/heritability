@@ -1,7 +1,12 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
-  /* config options here */
   reactCompiler: true,
+
+  output: "export",
+  basePath: "/your-repo-name",
+  images: {
+    unoptimized: true,
+  },
 };
 
 export default nextConfig;

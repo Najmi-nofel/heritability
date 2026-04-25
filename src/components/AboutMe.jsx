@@ -120,7 +120,7 @@ function AboutMe() {
               </Grid>
               <Grid size={6} sx={{ display: "flex", justifyContent: "center" }}>
                 <Avatar
-                  src="/about-image.png"
+                  src="/heritability/about-image.png"
                   sx={{
                     width: { xs: 300, md: 450 },
                     height: { xs: 300, md: 450 },
