@@ -25,7 +25,7 @@ jobs:
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          path: ./out # This is the folder created by 'output: export'
+          path: ./out
   deploy:
     environment:
       name: github-pages

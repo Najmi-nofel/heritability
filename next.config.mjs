@@ -3,7 +3,7 @@ const nextConfig = {
   reactCompiler: true,
 
   output: "export",
-  basePath: "/your-repo-name",
+  basePath: "/heritability",
   images: {
     unoptimized: true,
   },
