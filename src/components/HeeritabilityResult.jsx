@@ -107,7 +107,7 @@ function HeeritabilityResult({ result, faktor, traits }) {
                             label={status.label}
                             color={status.color}
                             size="small"
-                            variant="soft" // Jika menggunakan MUI Joy atau kustom tema, jika tidak gunakan 'outlined'
+                            variant="soft"
                           />
                           {data.warning && (
                             <Typography
@@ -134,7 +134,6 @@ function HeeritabilityResult({ result, faktor, traits }) {
         </CardContent>
       </Card>
 
-      {/* Grid Interpretasi Menggunakan Paper agar ikut Dark Mode */}
       <Grid container spacing={2}>
         {[
           {

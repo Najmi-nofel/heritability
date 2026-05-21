@@ -1,13 +1,5 @@
-// lib/heritabilitas.js
-
-/**
- * Filter data yang valid untuk trait tertentu
- * Hanya menyertakan baris yang memiliki nilai trait (tidak null/undefined/empty)
- * DAN faktor tidak null/undefined/empty
- */
 export function filterValidData(data, trait, faktor) {
   return data.filter((row) => {
-    // Cek faktor (sire) - harus ada dan tidak kosong
     const faktorValue = row[faktor];
     if (
       faktorValue === undefined ||
@@ -17,13 +9,11 @@ export function filterValidData(data, trait, faktor) {
       return false;
     }
 
-    // Cek trait - harus ada, tidak null, tidak empty, dan bisa dikonversi ke number
     const traitValue = row[trait];
     if (traitValue === undefined || traitValue === null || traitValue === "") {
       return false;
     }
 
-    // Cek apakah bisa dikonversi ke number (valid)
     const numValue = parseFloat(traitValue);
     if (isNaN(numValue)) {
       return false;
@@ -33,13 +23,9 @@ export function filterValidData(data, trait, faktor) {
   });
 }
 
-/**
- * Mendapatkan statistik ringkasan data per trait
- */
 function getDataSummary(data, trait, faktor) {
   const validData = filterValidData(data, trait, faktor);
 
-  // Kelompokkan berdasarkan faktor untuk melihat kelompok yang memiliki data
   const groupsWithData = {};
   validData.forEach((row) => {
     const faktorValue = String(row[faktor]);
@@ -62,7 +48,6 @@ function getDataSummary(data, trait, faktor) {
 }
 
 function estimateAnova(data, trait, faktor) {
-  // Filter data yang valid
   const validData = filterValidData(data, trait, faktor);
 
   if (validData.length === 0) {
@@ -70,7 +55,6 @@ function estimateAnova(data, trait, faktor) {
     return null;
   }
 
-  // Group data berdasarkan faktor, hanya untuk faktor yang memiliki data
   const groups = {};
   validData.forEach((row) => {
     const faktorValue = String(row[faktor]);
@@ -154,7 +138,6 @@ function estimateAnova(data, trait, faktor) {
 }
 
 function calculateK(data, faktor, trait) {
-  // Filter data valid
   const validData = filterValidData(data, trait, faktor);
 
   if (validData.length === 0) {
@@ -178,7 +161,6 @@ function calculateK(data, faktor, trait) {
   }
   const countFaktor = Object.keys(groupByFaktor).length;
 
-  // Cegah division by zero
   if (countFaktor <= 1) {
     return null;
   }
@@ -188,7 +170,6 @@ function calculateK(data, faktor, trait) {
 }
 
 function getUniqueValue(data, attr, trait = null) {
-  // Jika trait diberikan, hanya hitung dari data valid untuk trait tersebut
   let sourceData = data;
   if (trait) {
     sourceData = filterValidData(data, trait, attr);
@@ -204,15 +185,11 @@ function getUniqueValue(data, attr, trait = null) {
   return uniqueValue.size;
 }
 
-/**
- * Konversi string ke number - hanya konversi nilai yang valid
- */
 function convertString(data, traitList) {
   for (let row of data) {
     for (let trait of traitList) {
       let value = row[trait];
 
-      // Skip jika value kosong
       if (value === undefined || value === null || value === "") {
         continue;
       }
@@ -229,12 +206,10 @@ function convertString(data, traitList) {
 }
 
 export default function estimateHeritability(data, faktor, traitList) {
-  // Validasi data
   if (!data || data.length === 0) {
     return { error: "Data kosong" };
   }
 
-  // Konversi string ke number
   convertString(data, traitList);
 
   const result = {};
@@ -242,7 +217,6 @@ export default function estimateHeritability(data, faktor, traitList) {
   traitList.forEach((trait) => {
     console.log(`\n=== Memproses trait: ${trait} ===`);
 
-    // Cek apakah trait ada dalam data
     if (!data[0] || data[0][trait] === undefined) {
       console.warn(`Trait "${trait}" tidak ditemukan`);
       result[trait] = {
@@ -254,7 +228,7 @@ export default function estimateHeritability(data, faktor, traitList) {
       return;
     }
 
-    // Dapatkan statistik data
+    // statistik data
     const summary = getDataSummary(data, trait, faktor);
     console.log(
       `Data summary: total=${summary.totalData}, valid=${summary.validData}, missing=${summary.missingData}, kelompok valid=${summary.uniqueFaktor}`,
@@ -356,9 +330,9 @@ export default function estimateHeritability(data, faktor, traitList) {
 
     const heritability = (4 * kthFaktor) / (MSw + kthFaktor);
 
-    // Hitung SE - gunakan jumlah kelompok valid untuk trait ini
+    // Hitung SE
     const t = kthFaktor / (MSw + kthFaktor);
-    const s = getUniqueValue(data, faktor, trait); // Hitung unique faktor hanya dari data valid
+    const s = getUniqueValue(data, faktor, trait);
     const dividen = 2 * (1 - t) * Math.pow(1 + (k - 1) * t, 2);
     const divisor = k * (k - 1) * (s - 1);
 

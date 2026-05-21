@@ -35,10 +35,8 @@ export function filterValidData(data, traitList, faktor) {
 }
 
 export default function estimateGeneticCorrelation(data, faktor, traitList) {
-  // Gunakan filterValidData terlebih dahulu
   const validData = filterValidData(data, traitList, faktor);
 
-  // Ambil k dari salah satu trait (harus sama)
   const h = estimateHeritability(validData, faktor, traitList);
   let k;
 
@@ -48,8 +46,8 @@ export default function estimateGeneticCorrelation(data, faktor, traitList) {
     ragamFaktor[trait] = ragam_s;
     k = h[trait].k;
   }
-  const N = validData.length; // jumlah populasi
-  const sireGroups = {}; // kumpulkan semua data per pejantan untuk semua trait
+  const N = validData.length;
+  const sireGroups = {};
   validData.forEach((row) => {
     const sire = row[faktor];
     if (!sireGroups[sire]) sireGroups[sire] = [];
@@ -57,8 +55,8 @@ export default function estimateGeneticCorrelation(data, faktor, traitList) {
   });
 
   const sires = Object.keys(sireGroups);
-  const s = sires.length; // jumlah sire
-  const ni = sires.map((sire) => sireGroups[sire].length); // jumlah anak per prejantan
+  const s = sires.length;
+  const ni = sires.map((sire) => sireGroups[sire].length);
 
   const totalSums = {};
   traitList.forEach((trait) => {
@@ -90,7 +88,6 @@ export default function estimateGeneticCorrelation(data, faktor, traitList) {
     }
   });
 
-  // Hitung SCP_sire dan SCP_error untuk setiap pasangan
   const correlations = {};
   for (let i = 0; i < traitList.length; i++) {
     for (let j = i + 1; j < traitList.length; j++) {
@@ -98,7 +95,6 @@ export default function estimateGeneticCorrelation(data, faktor, traitList) {
         t2 = traitList[j];
       const key = `${t1}_${t2}`;
 
-      // Hitung sum per pejantan untuk t1 dan t2
       let sumSireT1 = {},
         sumSireT2 = {};
       sires.forEach((sire) => {
@@ -112,7 +108,6 @@ export default function estimateGeneticCorrelation(data, faktor, traitList) {
         sumSireT2[sire] = sum2;
       });
 
-      // Hitung SCP_sire = sum( (sum_t1 * sum_t2) / n_i ) - (total_t1 * total_t2)/N
       let scpSire = 0;
       for (let idx = 0; idx < s; idx++) {
         const sire = sires[idx];
@@ -122,7 +117,6 @@ export default function estimateGeneticCorrelation(data, faktor, traitList) {
       const totalProd = (totalSums[t1] * totalSums[t2]) / N;
       scpSire -= totalProd;
 
-      // SCP_total = total sum of products - (total_t1*total_t2)/N
       const scpTotal = sumXY[key] - totalProd;
       const scpError = scpTotal - scpSire;
 
@@ -141,13 +135,12 @@ export default function estimateGeneticCorrelation(data, faktor, traitList) {
     }
   }
 
-  // Buat tabel (matriks) untuk output
   const matrix = {};
   traitList.forEach((t) => {
     matrix[t] = {};
   });
   for (let i = 0; i < traitList.length; i++) {
-    matrix[traitList[i]][traitList[i]] = 1.0; // korelasi dengan diri sendiri = 1
+    matrix[traitList[i]][traitList[i]] = 1.0;
     for (let j = i + 1; j < traitList.length; j++) {
       const key = `${traitList[i]}_${traitList[j]}`;
       const val = correlations[key];

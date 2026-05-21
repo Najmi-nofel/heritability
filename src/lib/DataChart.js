@@ -3,7 +3,6 @@ import React from "react";
 import { filterValidData } from "@/lib/heritability.js";
 
 function DataChart(data, faktor, traitlist) {
-  // agregat data
   const result = {};
 
   traitlist.forEach((trait) => {

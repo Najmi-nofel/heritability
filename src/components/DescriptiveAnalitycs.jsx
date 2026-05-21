@@ -23,7 +23,6 @@ function DescriptiveAnalytics({ result, faktor, traits }) {
   return (
     <Box sx={{ display: "flex", flexDirection: "column", gap: 3 }}>
       <Card sx={{ borderRadius: 3, overflow: "hidden" }}>
-        {/* Header dengan Gradient konsisten */}
         <Box
           sx={{
             p: 3,
@@ -93,7 +92,7 @@ function DescriptiveAnalytics({ result, faktor, traits }) {
         </CardContent>
       </Card>
 
-      {/* Info Ringkas Section
+      {/*
       <Grid container spacing={2}>
         <Grid item xs={12}>
           <Paper

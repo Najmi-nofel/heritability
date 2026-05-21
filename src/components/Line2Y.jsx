@@ -10,9 +10,9 @@ import {
   Title,
   Tooltip,
   Legend,
-  Filler, // The Filler plugin is required for area charts!
+  Filler,
 } from "chart.js";
-import { Line } from "react-chartjs-2"; // Area charts use the Line component
+import { Line } from "react-chartjs-2";
 import { Tabs, Tab, Box, Paper } from "@mui/material";
 
 // Register the required Chart.js components
@@ -41,16 +41,15 @@ export default function DualAxisAreaChart({ result, faktor, traits }) {
       {
         label: "Average (kg)",
         data: target.map((t) => t.average),
-        yAxisID: "y", // Ties to the left axis
-        fill: true, // Turns the line chart into an area chart
-        tension: 0.4, // Adds smooth curves to the line
-        borderColor: "rgba(34, 139, 34, 1)", // Solid Forest Green border
-        // Scriptable option to create a top-to-bottom gradient
+        yAxisID: "y",
+        fill: true,
+        tension: 0.4,
+        borderColor: "rgba(34, 139, 34, 1)",
+
         backgroundColor: (context) => {
           const chart = context.chart;
           const { ctx, chartArea } = chart;
 
-          // chartArea is undefined on initial render before the canvas is measured
           if (!chartArea) return "rgba(34, 139, 34, 0.5)";
 
           const gradient = ctx.createLinearGradient(
@@ -68,10 +67,10 @@ export default function DualAxisAreaChart({ result, faktor, traits }) {
       {
         label: `Count per ${faktor}`,
         data: target.map((t) => t.count),
-        yAxisID: "y1", // Ties to the right axis
+        yAxisID: "y1",
         fill: true,
         tension: 0.4,
-        borderColor: "rgba(60, 179, 113, 1)", // Solid Medium Sea Green border
+        borderColor: "rgba(60, 179, 113, 1)",
         backgroundColor: (context) => {
           const chart = context.chart;
           const { ctx, chartArea } = chart;
@@ -84,8 +83,8 @@ export default function DualAxisAreaChart({ result, faktor, traits }) {
             0,
             chartArea.bottom,
           );
-          gradient.addColorStop(0, "rgba(60, 179, 113, 0.7)"); // Lighter green at the top
-          gradient.addColorStop(1, "rgba(60, 179, 113, 0.0)"); // Fades to transparent at the bottom
+          gradient.addColorStop(0, "rgba(60, 179, 113, 0.7)");
+          gradient.addColorStop(1, "rgba(60, 179, 113, 0.0)");
 
           return gradient;
         },
@@ -105,7 +104,6 @@ export default function DualAxisAreaChart({ result, faktor, traits }) {
         text: `Average and Count per ${faktor} of ${value} Trait`,
       },
       tooltip: {
-        // Ensures tooltips show both values when hovering over a shared X-axis point
         shared: true,
       },
     },
@@ -118,7 +116,7 @@ export default function DualAxisAreaChart({ result, faktor, traits }) {
           display: true,
           text: "Average",
         },
-        // Optionally start at zero for a cleaner area fill
+
         beginAtZero: true,
       },
       y1: {
@@ -131,7 +129,6 @@ export default function DualAxisAreaChart({ result, faktor, traits }) {
         },
         beginAtZero: true,
         grid: {
-          // Prevents the right axis grid lines from overlapping the left
           drawOnChartArea: false,
         },
       },
@@ -139,7 +136,6 @@ export default function DualAxisAreaChart({ result, faktor, traits }) {
   };
   return (
     <Paper sx={{ p: 3, borderRadius: "20px", width: "100%", mt: 2 }}>
-      {/* Bagian Tabs - Hanya muncul satu kali di atas */}
       <Box
         sx={{
           borderBottom: 1,
@@ -166,7 +162,6 @@ export default function DualAxisAreaChart({ result, faktor, traits }) {
         </Tabs>
       </Box>
 
-      {/* Bagian Grafik - Berubah isinya sesuai Tab yang dipilih */}
       <Box
         sx={{
           width: "100%",

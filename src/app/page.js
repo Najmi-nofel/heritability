@@ -89,7 +89,6 @@ function a11yProps(index) {
 }
 // format theme
 const theme = createTheme({
-  // WAJIB ADA: Agar useColorScheme bisa mendeteksi mode
   cssVariables: {
     colorSchemeSelector: "class",
   },
@@ -122,7 +121,6 @@ export default function Home() {
   // menu dropdown
   const [open, setOpen] = useState(null);
   const [isAnalyzing, setIsAnalyzing] = useState(false);
-  const [heritabilityResult, setHeritabilityResult] = useState(null);
 
   const tableContainerRef = useRef(null);
 
@@ -220,9 +218,11 @@ export default function Home() {
       setIsLoading(false);
     }
   };
+
   if (!isClient) {
     return null;
   }
+
   return (
     <div>
       <AppRouterCacheProvider>
@@ -246,7 +246,7 @@ export default function Home() {
                 }}
                 variant="h4"
               >
-                Listoklis
+                Livstocklis
               </Typography>
               <Tabs
                 value={value}
@@ -261,7 +261,7 @@ export default function Home() {
                   {...a11yProps(2)}
                   disabled={!isAnalyzing}
                 />
-                <Tab label="About" {...a11yProps(2)} />
+                <Tab label="About" {...a11yProps(3)} />
               </Tabs>
               <Button
                 id="dropdown-menu"

@@ -4,11 +4,10 @@ import { Box, Paper, Typography, alpha } from "@mui/material";
 import { DataGrid, GridToolbar, gridClasses } from "@mui/x-data-grid";
 
 function BreedingValueResult({ result, faktor }) {
-  // Memoize data agar tidak re-render berat jika baris sangat banyak
   const rows = React.useMemo(() => {
     if (!result || !Array.isArray(result)) return [];
     return result.map((item, index) => ({
-      id: index, // DataGrid butuh ID unik
+      id: index,
       ...item,
     }));
   }, [result]);
@@ -16,9 +15,8 @@ function BreedingValueResult({ result, faktor }) {
   const columns = React.useMemo(() => {
     if (rows.length === 0) return [];
 
-    // Ambil semua kunci dari objek pertama (misal: "undefined", "Ebv_blt", dll)
     return Object.keys(result[0]).map((key) => {
-      const isNameColumn = key === "undefined"; // Menangani kolom nama pejantan
+      const isNameColumn = key === "undefined";
 
       return {
         field: key,
@@ -28,7 +26,7 @@ function BreedingValueResult({ result, faktor }) {
         flex: 1,
         minWidth: 150,
         headerClassName: "super-app-theme--header",
-        // Formatting angka agar rapi (3 desimal)
+
         valueFormatter: (value) => {
           if (value === null || value === undefined || isNaN(value)) {
             return "-";
@@ -39,7 +37,6 @@ function BreedingValueResult({ result, faktor }) {
           return value;
         },
 
-        // Memberi warna khusus jika ini kolom nama
         renderCell: (params) => (
           <Typography
             variant="body2"
@@ -67,7 +64,7 @@ function BreedingValueResult({ result, faktor }) {
         sx={{
           height: 500,
           width: "100%",
-          // Styling tambahan agar mirip dashboard profesional
+
           "& .super-app-theme--header": {
             backgroundColor: (theme) => alpha(theme.palette.primary.main, 0.1),
           },
@@ -76,7 +73,7 @@ function BreedingValueResult({ result, faktor }) {
         <DataGrid
           rows={rows}
           columns={columns}
-          showToolbar // User bisa filter, sort, dan export CSV
+          showToolbar
           disableRowSelectionOnClick
           initialState={{
             pagination: { paginationModel: { pageSize: 10 } },

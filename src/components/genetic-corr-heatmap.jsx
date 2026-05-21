@@ -2,16 +2,13 @@
 import { ResponsiveHeatMap } from "@nivo/heatmap";
 
 export default function Heatmap({ correlations, traits }) {
-  // Pastikan correlations adalah objek
   if (!correlations || typeof correlations !== "object") {
     return (
       <div className="p-4 text-red-500">Error: Data korelasi tidak valid</div>
     );
   }
 
-  // Transformasi data
   const transformData = () => {
-    // Jika correlations berbentuk matriks array 2D
     if (
       Array.isArray(correlations) &&
       correlations.length > 0 &&
@@ -24,9 +21,7 @@ export default function Heatmap({ correlations, traits }) {
           y: correlations[i]?.[j] ?? (i === j ? 1 : 0),
         })),
       }));
-    }
-    // Jika correlations berbentuk objek { trait1: { trait2: value } }
-    else if (!Array.isArray(correlations)) {
+    } else if (!Array.isArray(correlations)) {
       return traits.map((rowTrait) => {
         const rowObj = correlations[rowTrait];
         if (!rowObj) {
