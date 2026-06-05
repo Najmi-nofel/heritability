@@ -124,26 +124,7 @@ export default function Home() {
 
   const tableContainerRef = useRef(null);
 
-  // row virtualizer
-  ("use no memo");
-  const rowVirtualizer = useVirtualizer({
-    count: fileExcel.length,
-    getScrollElement: () => tableContainerRef.current,
-    estimateSize: () => 35,
-    overscan: 10,
-  });
-
   const columns = fileExcel[0] ? Object.keys(fileExcel[0]) : [];
-
-  // column virtualizer
-  ("use no memo");
-  const columnVirtualizer = useVirtualizer({
-    horizontal: true,
-    count: columns.length,
-    getScrollElement: () => tableContainerRef.current,
-    estimateSize: () => 150,
-    overscan: 5,
-  });
 
   useEffect(() => {
     setIsClient(true);
@@ -214,6 +195,33 @@ export default function Home() {
       console.log("Analysis akan dilakukan pada kolom:", traitValues);
     } catch (e) {
       console.error(`Error during analysis:${e}`);
+    } finally {
+      setIsLoading(false);
+    }
+  };
+
+  // demo data handle
+  const demoFileHandle = async () => {
+    setIsLoading(true);
+
+    try {
+      const res = await fetch("/demo_data.json");
+
+      if (!res.ok) {
+        throw new Error(
+          "Failed to retrieve the JSON file from the public folder",
+        );
+      }
+
+      const demoData = await res.json();
+
+      setFileName("demo_data.json");
+      setFileExcel(demoData);
+      setFaktorSelect("sire");
+      setTraitValues(["birth_weight", "weaning_weight", "average_daily_gain"]);
+      setIsAnalyzing(true);
+    } catch (e) {
+      console.error("Error fetching demo data:", e);
     } finally {
       setIsLoading(false);
     }
@@ -356,6 +364,23 @@ export default function Home() {
                 >
                   <div className="flex gap-6">
                     <div className="flex items-center gap-3 p-2">
+                      {fileExcel.length > 0 ? (
+                        ""
+                      ) : (
+                        <Button
+                          variant="outlined"
+                          color="success"
+                          startIcon={<RocketLaunch />}
+                          onClick={demoFileHandle}
+                          sx={{
+                            height: "50px",
+                            borderRadius: "50px",
+                            textTransform: "none",
+                          }}
+                        >
+                          Use demo data
+                        </Button>
+                      )}
                       <HiddenInput onChange={inputFileHandle} />
                       <span
                         className={`text-sm ${fileName === "No file chosen." ? "text-gray-500" : "text-blue-600 font-medium"}`}
@@ -368,6 +393,7 @@ export default function Home() {
                         </span>
                       )}
                     </div>
+
                     <div className="flex gap-4 p-2">
                       {/* Fakto Select */}
                       {fileExcel.length > 0 && (
@@ -496,7 +522,7 @@ export default function Home() {
                   >
                     {fileExcel.length > 0
                       ? ""
-                      : `📁 Please upload your data file (.xlsx, .xls, .csv)`}
+                      : `📁 Please upload your data file (.xlsx, .xls, .csv) / use demo data`}
                   </Typography>
                 </Paper>
                 {/* Chart */}

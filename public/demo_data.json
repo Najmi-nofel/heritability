@@ -1,0 +1,4802 @@
+[
+  {
+    "kid_id": 23194423,
+    "sire": "SIRE_16",
+    "dam_id": "DAM_016",
+    "birth_weight": 3.18,
+    "weaning_weight": 15.51,
+    "average_daily_gain": 0.1233
+  },
+  {
+    "kid_id": 23124959,
+    "sire": "SIRE_06",
+    "dam_id": "DAM_039",
+    "birth_weight": 2.5,
+    "weaning_weight": 13.36,
+    "average_daily_gain": 0.1086
+  },
+  {
+    "kid_id": 23164647,
+    "sire": "SIRE_18",
+    "dam_id": "DAM_037",
+    "birth_weight": 2.07,
+    "weaning_weight": null,
+    "average_daily_gain": null
+  },
+  {
+    "kid_id": 23140504,
+    "sire": "SIRE_05",
+    "dam_id": "DAM_097",
+    "birth_weight": 2.8,
+    "weaning_weight": null,
+    "average_daily_gain": null
+  },
+  {
+    "kid_id": 23151167,
+    "sire": "SIRE_09",
+    "dam_id": "DAM_027",
+    "birth_weight": 3.55,
+    "weaning_weight": 14.42,
+    "average_daily_gain": 0.1087
+  },
+  {
+    "kid_id": 23133502,
+    "sire": "SIRE_04",
+    "dam_id": "DAM_072",
+    "birth_weight": 2.35,
+    "weaning_weight": 12.05,
+    "average_daily_gain": 0.097
+  },
+  {
+    "kid_id": 23117132,
+    "sire": "SIRE_02",
+    "dam_id": "DAM_010",
+    "birth_weight": 2.62,
+    "weaning_weight": 14.83,
+    "average_daily_gain": 0.1221
+  },
+  {
+    "kid_id": 23173362,
+    "sire": "SIRE_11",
+    "dam_id": "DAM_021",
+    "birth_weight": 2.92,
+    "weaning_weight": 14.78,
+    "average_daily_gain": 0.1186
+  },
+  {
+    "kid_id": 23159221,
+    "sire": "SIRE_03",
+    "dam_id": "DAM_018",
+    "birth_weight": 1.98,
+    "weaning_weight": 11.75,
+    "average_daily_gain": 0.0977
+  },
+  {
+    "kid_id": 23154348,
+    "sire": "SIRE_04",
+    "dam_id": "DAM_072",
+    "birth_weight": 3.06,
+    "weaning_weight": 13.79,
+    "average_daily_gain": 0.1073
+  },
+  {
+    "kid_id": 23122620,
+    "sire": "SIRE_15",
+    "dam_id": "DAM_059",
+    "birth_weight": 2.69,
+    "weaning_weight": 11.66,
+    "average_daily_gain": 0.0897
+  },
+  {
+    "kid_id": 23178173,
+    "sire": "SIRE_16",
+    "dam_id": "DAM_042",
+    "birth_weight": 3.05,
+    "weaning_weight": 16.45,
+    "average_daily_gain": 0.134
+  },
+  {
+    "kid_id": 23126940,
+    "sire": "SIRE_02",
+    "dam_id": "DAM_033",
+    "birth_weight": 3.04,
+    "weaning_weight": 16.71,
+    "average_daily_gain": 0.1367
+  },
+  {
+    "kid_id": 23125766,
+    "sire": "SIRE_15",
+    "dam_id": "DAM_059",
+    "birth_weight": 2.45,
+    "weaning_weight": null,
+    "average_daily_gain": null
+  },
+  {
+    "kid_id": 23199070,
+    "sire": "SIRE_15",
+    "dam_id": "DAM_059",
+    "birth_weight": 2.0,
+    "weaning_weight": 13.22,
+    "average_daily_gain": 0.1122
+  },
+  {
+    "kid_id": 23136527,
+    "sire": "SIRE_14",
+    "dam_id": "DAM_003",
+    "birth_weight": 1.86,
+    "weaning_weight": 9.94,
+    "average_daily_gain": 0.0808
+  },
+  {
+    "kid_id": 23152039,
+    "sire": "SIRE_12",
+    "dam_id": "DAM_079",
+    "birth_weight": 3.49,
+    "weaning_weight": null,
+    "average_daily_gain": null
+  },
+  {
+    "kid_id": 23170400,
+    "sire": "SIRE_16",
+    "dam_id": "DAM_050",
+    "birth_weight": 3.16,
+    "weaning_weight": 12.61,
+    "average_daily_gain": 0.0945
+  },
+  {
+    "kid_id": 23158801,
+    "sire": "SIRE_18",
+    "dam_id": "DAM_048",
+    "birth_weight": 3.11,
+    "weaning_weight": 13.24,
+    "average_daily_gain": 0.1013
+  },
+  {
+    "kid_id": 23159049,
+    "sire": "SIRE_08",
+    "dam_id": "DAM_053",
+    "birth_weight": 2.33,
+    "weaning_weight": 13.02,
+    "average_daily_gain": 0.1069
+  },
+  {
+    "kid_id": 23142730,
+    "sire": "SIRE_04",
+    "dam_id": "DAM_083",
+    "birth_weight": 3.01,
+    "weaning_weight": 13.39,
+    "average_daily_gain": 0.1038
+  },
+  {
+    "kid_id": 23137195,
+    "sire": "SIRE_01",
+    "dam_id": "DAM_056",
+    "birth_weight": 1.91,
+    "weaning_weight": 11.71,
+    "average_daily_gain": 0.098
+  },
+  {
+    "kid_id": 23120698,
+    "sire": "SIRE_11",
+    "dam_id": "DAM_029",
+    "birth_weight": 2.83,
+    "weaning_weight": 17.25,
+    "average_daily_gain": 0.1442
+  },
+  {
+    "kid_id": 23194487,
+    "sire": "SIRE_07",
+    "dam_id": "DAM_077",
+    "birth_weight": 3.33,
+    "weaning_weight": null,
+    "average_daily_gain": null
+  },
+  {
+    "kid_id": 23197763,
+    "sire": "SIRE_19",
+    "dam_id": "DAM_024",
+    "birth_weight": 2.16,
+    "weaning_weight": 11.12,
+    "average_daily_gain": 0.0896
+  },
+  {
+    "kid_id": 23159211,
+    "sire": "SIRE_17",
+    "dam_id": "DAM_038",
+    "birth_weight": 2.43,
+    "weaning_weight": 13.98,
+    "average_daily_gain": 0.1155
+  },
+  {
+    "kid_id": 23196688,
+    "sire": "SIRE_05",
+    "dam_id": "DAM_032",
+    "birth_weight": 3.12,
+    "weaning_weight": 14.64,
+    "average_daily_gain": 0.1152
+  },
+  {
+    "kid_id": 23165966,
+    "sire": "SIRE_04",
+    "dam_id": "DAM_052",
+    "birth_weight": 2.89,
+    "weaning_weight": null,
+    "average_daily_gain": null
+  },
+  {
+    "kid_id": 23126262,
+    "sire": "SIRE_11",
+    "dam_id": "DAM_017",
+    "birth_weight": 2.38,
+    "weaning_weight": 11.22,
+    "average_daily_gain": 0.0884
+  },
+  {
+    "kid_id": 23197242,
+    "sire": "SIRE_03",
+    "dam_id": "DAM_100",
+    "birth_weight": 2.97,
+    "weaning_weight": 16.23,
+    "average_daily_gain": 0.1326
+  },
+  {
+    "kid_id": 23186106,
+    "sire": "SIRE_17",
+    "dam_id": "DAM_090",
+    "birth_weight": 2.86,
+    "weaning_weight": 13.83,
+    "average_daily_gain": 0.1097
+  },
+  {
+    "kid_id": 23152258,
+    "sire": "SIRE_05",
+    "dam_id": "DAM_032",
+    "birth_weight": 2.69,
+    "weaning_weight": null,
+    "average_daily_gain": null
+  },
+  {
+    "kid_id": 23146919,
+    "sire": "SIRE_17",
+    "dam_id": "DAM_038",
+    "birth_weight": 3.19,
+    "weaning_weight": 16.63,
+    "average_daily_gain": 0.1344
+  },
+  {
+    "kid_id": 23144198,
+    "sire": "SIRE_09",
+    "dam_id": "DAM_027",
+    "birth_weight": 2.02,
+    "weaning_weight": 9.75,
+    "average_daily_gain": 0.0773
+  },
+  {
+    "kid_id": 23112871,
+    "sire": "SIRE_15",
+    "dam_id": "DAM_013",
+    "birth_weight": 3.89,
+    "weaning_weight": null,
+    "average_daily_gain": null
+  },
+  {
+    "kid_id": 23177205,
+    "sire": "SIRE_03",
+    "dam_id": "DAM_018",
+    "birth_weight": 3.75,
+    "weaning_weight": 13.07,
+    "average_daily_gain": 0.0932
+  },
+  {
+    "kid_id": 23135245,
+    "sire": "SIRE_05",
+    "dam_id": "DAM_032",
+    "birth_weight": 2.95,
+    "weaning_weight": null,
+    "average_daily_gain": null
+  },
+  {
+    "kid_id": 23154937,
+    "sire": "SIRE_16",
+    "dam_id": "DAM_051",
+    "birth_weight": 2.81,
+    "weaning_weight": 14.24,
+    "average_daily_gain": 0.1143
+  },
+  {
+    "kid_id": 23125684,
+    "sire": "SIRE_04",
+    "dam_id": "DAM_023",
+    "birth_weight": 2.97,
+    "weaning_weight": 14.7,
+    "average_daily_gain": 0.1173
+  },
+  {
+    "kid_id": 23197236,
+    "sire": "SIRE_15",
+    "dam_id": "DAM_013",
+    "birth_weight": 2.81,
+    "weaning_weight": null,
+    "average_daily_gain": null
+  },
+  {
+    "kid_id": 23178956,
+    "sire": "SIRE_15",
+    "dam_id": "DAM_059",
+    "birth_weight": 2.3,
+    "weaning_weight": 12.12,
+    "average_daily_gain": 0.0982
+  },
+  {
+    "kid_id": 23112259,
+    "sire": "SIRE_04",
+    "dam_id": "DAM_072",
+    "birth_weight": 2.11,
+    "weaning_weight": 12.0,
+    "average_daily_gain": 0.0989
+  },
+  {
+    "kid_id": 23149044,
+    "sire": "SIRE_15",
+    "dam_id": "DAM_013",
+    "birth_weight": 3.14,
+    "weaning_weight": 13.44,
+    "average_daily_gain": 0.103
+  },
+  {
+    "kid_id": 23197579,
+    "sire": "SIRE_10",
+    "dam_id": "DAM_031",
+    "birth_weight": 3.68,
+    "weaning_weight": 16.5,
+    "average_daily_gain": 0.1282
+  },
+  {
+    "kid_id": 23138236,
+    "sire": "SIRE_06",
+    "dam_id": "DAM_096",
+    "birth_weight": 2.66,
+    "weaning_weight": 12.6,
+    "average_daily_gain": 0.0994
+  },
+  {
+    "kid_id": 23154924,
+    "sire": "SIRE_14",
+    "dam_id": "DAM_003",
+    "birth_weight": 2.9,
+    "weaning_weight": null,
+    "average_daily_gain": null
+  },
+  {
+    "kid_id": 23185670,
+    "sire": "SIRE_11",
+    "dam_id": "DAM_011",
+    "birth_weight": 2.72,
+    "weaning_weight": 14.37,
+    "average_daily_gain": 0.1165
+  },
+  {
+    "kid_id": 23110585,
+    "sire": "SIRE_05",
+    "dam_id": "DAM_097",
+    "birth_weight": 3.7,
+    "weaning_weight": 13.59,
+    "average_daily_gain": 0.0989
+  },
+  {
+    "kid_id": 23176448,
+    "sire": "SIRE_19",
+    "dam_id": "DAM_081",
+    "birth_weight": 1.86,
+    "weaning_weight": 10.78,
+    "average_daily_gain": 0.0892
+  },
+  {
+    "kid_id": 23186227,
+    "sire": "SIRE_16",
+    "dam_id": "DAM_002",
+    "birth_weight": 3.65,
+    "weaning_weight": 13.97,
+    "average_daily_gain": 0.1032
+  },
+  {
+    "kid_id": 23132545,
+    "sire": "SIRE_14",
+    "dam_id": "DAM_080",
+    "birth_weight": 1.45,
+    "weaning_weight": 10.63,
+    "average_daily_gain": 0.0918
+  },
+  {
+    "kid_id": 23178862,
+    "sire": "SIRE_19",
+    "dam_id": "DAM_061",
+    "birth_weight": 2.43,
+    "weaning_weight": null,
+    "average_daily_gain": null
+  },
+  {
+    "kid_id": 23120235,
+    "sire": "SIRE_07",
+    "dam_id": "DAM_066",
+    "birth_weight": 1.66,
+    "weaning_weight": 9.18,
+    "average_daily_gain": 0.0752
+  },
+  {
+    "kid_id": 23157790,
+    "sire": "SIRE_16",
+    "dam_id": "DAM_025",
+    "birth_weight": 2.13,
+    "weaning_weight": null,
+    "average_daily_gain": null
+  },
+  {
+    "kid_id": 23185676,
+    "sire": "SIRE_09",
+    "dam_id": "DAM_082",
+    "birth_weight": 4.53,
+    "weaning_weight": 14.86,
+    "average_daily_gain": 0.1033
+  },
+  {
+    "kid_id": 23152787,
+    "sire": "SIRE_14",
+    "dam_id": "DAM_060",
+    "birth_weight": 2.96,
+    "weaning_weight": 16.79,
+    "average_daily_gain": 0.1383
+  },
+  {
+    "kid_id": 23138684,
+    "sire": "SIRE_05",
+    "dam_id": "DAM_032",
+    "birth_weight": 2.41,
+    "weaning_weight": 13.96,
+    "average_daily_gain": 0.1155
+  },
+  {
+    "kid_id": 23163869,
+    "sire": "SIRE_11",
+    "dam_id": "DAM_017",
+    "birth_weight": 2.43,
+    "weaning_weight": 13.2,
+    "average_daily_gain": 0.1077
+  },
+  {
+    "kid_id": 23151008,
+    "sire": "SIRE_20",
+    "dam_id": "DAM_012",
+    "birth_weight": 2.59,
+    "weaning_weight": 12.96,
+    "average_daily_gain": 0.1037
+  },
+  {
+    "kid_id": 23127533,
+    "sire": "SIRE_03",
+    "dam_id": "DAM_018",
+    "birth_weight": 2.52,
+    "weaning_weight": 13.47,
+    "average_daily_gain": 0.1095
+  },
+  {
+    "kid_id": 23156439,
+    "sire": "SIRE_02",
+    "dam_id": "DAM_069",
+    "birth_weight": 2.92,
+    "weaning_weight": 14.55,
+    "average_daily_gain": 0.1163
+  },
+  {
+    "kid_id": 23198597,
+    "sire": "SIRE_16",
+    "dam_id": "DAM_051",
+    "birth_weight": 2.91,
+    "weaning_weight": 12.59,
+    "average_daily_gain": 0.0968
+  },
+  {
+    "kid_id": 23158285,
+    "sire": "SIRE_09",
+    "dam_id": "DAM_005",
+    "birth_weight": 2.7,
+    "weaning_weight": null,
+    "average_daily_gain": null
+  },
+  {
+    "kid_id": 23167830,
+    "sire": "SIRE_04",
+    "dam_id": "DAM_058",
+    "birth_weight": 3.15,
+    "weaning_weight": 12.6,
+    "average_daily_gain": 0.0945
+  },
+  {
+    "kid_id": 23110636,
+    "sire": "SIRE_17",
+    "dam_id": "DAM_038",
+    "birth_weight": 3.09,
+    "weaning_weight": 11.85,
+    "average_daily_gain": 0.0876
+  },
+  {
+    "kid_id": 23118398,
+    "sire": "SIRE_17",
+    "dam_id": "DAM_084",
+    "birth_weight": 3.09,
+    "weaning_weight": 14.61,
+    "average_daily_gain": 0.1152
+  },
+  {
+    "kid_id": 23172043,
+    "sire": "SIRE_02",
+    "dam_id": "DAM_010",
+    "birth_weight": 3.39,
+    "weaning_weight": 15.62,
+    "average_daily_gain": 0.1223
+  },
+  {
+    "kid_id": 23131588,
+    "sire": "SIRE_14",
+    "dam_id": "DAM_098",
+    "birth_weight": 2.47,
+    "weaning_weight": 13.31,
+    "average_daily_gain": 0.1084
+  },
+  {
+    "kid_id": 23166503,
+    "sire": "SIRE_09",
+    "dam_id": "DAM_065",
+    "birth_weight": 2.58,
+    "weaning_weight": 13.02,
+    "average_daily_gain": 0.1044
+  },
+  {
+    "kid_id": 23184344,
+    "sire": "SIRE_10",
+    "dam_id": "DAM_054",
+    "birth_weight": 3.16,
+    "weaning_weight": 17.14,
+    "average_daily_gain": 0.1398
+  },
+  {
+    "kid_id": 23185032,
+    "sire": "SIRE_09",
+    "dam_id": "DAM_047",
+    "birth_weight": 2.62,
+    "weaning_weight": 13.57,
+    "average_daily_gain": 0.1095
+  },
+  {
+    "kid_id": 23132481,
+    "sire": "SIRE_09",
+    "dam_id": "DAM_027",
+    "birth_weight": 2.54,
+    "weaning_weight": 10.06,
+    "average_daily_gain": 0.0752
+  },
+  {
+    "kid_id": 23124860,
+    "sire": "SIRE_16",
+    "dam_id": "DAM_042",
+    "birth_weight": 3.96,
+    "weaning_weight": 13.18,
+    "average_daily_gain": 0.0922
+  },
+  {
+    "kid_id": 23155454,
+    "sire": "SIRE_18",
+    "dam_id": "DAM_037",
+    "birth_weight": 2.75,
+    "weaning_weight": 13.86,
+    "average_daily_gain": 0.1111
+  },
+  {
+    "kid_id": 23126462,
+    "sire": "SIRE_02",
+    "dam_id": "DAM_069",
+    "birth_weight": 2.62,
+    "weaning_weight": 15.63,
+    "average_daily_gain": 0.1301
+  },
+  {
+    "kid_id": 23170375,
+    "sire": "SIRE_17",
+    "dam_id": "DAM_092",
+    "birth_weight": 3.99,
+    "weaning_weight": 17.52,
+    "average_daily_gain": 0.1353
+  },
+  {
+    "kid_id": 23151444,
+    "sire": "SIRE_10",
+    "dam_id": "DAM_054",
+    "birth_weight": 4.13,
+    "weaning_weight": 17.19,
+    "average_daily_gain": 0.1306
+  },
+  {
+    "kid_id": 23128211,
+    "sire": "SIRE_19",
+    "dam_id": "DAM_081",
+    "birth_weight": 2.57,
+    "weaning_weight": null,
+    "average_daily_gain": null
+  },
+  {
+    "kid_id": 23116521,
+    "sire": "SIRE_11",
+    "dam_id": "DAM_029",
+    "birth_weight": 3.26,
+    "weaning_weight": null,
+    "average_daily_gain": null
+  },
+  {
+    "kid_id": 23163769,
+    "sire": "SIRE_10",
+    "dam_id": "DAM_070",
+    "birth_weight": 2.95,
+    "weaning_weight": 16.22,
+    "average_daily_gain": 0.1327
+  },
+  {
+    "kid_id": 23167259,
+    "sire": "SIRE_02",
+    "dam_id": "DAM_010",
+    "birth_weight": 3.93,
+    "weaning_weight": 17.14,
+    "average_daily_gain": 0.1321
+  },
+  {
+    "kid_id": 23157089,
+    "sire": "SIRE_08",
+    "dam_id": "DAM_094",
+    "birth_weight": 2.66,
+    "weaning_weight": null,
+    "average_daily_gain": null
+  },
+  {
+    "kid_id": 23125245,
+    "sire": "SIRE_19",
+    "dam_id": "DAM_081",
+    "birth_weight": 3.67,
+    "weaning_weight": 16.34,
+    "average_daily_gain": 0.1267
+  },
+  {
+    "kid_id": 23199698,
+    "sire": "SIRE_14",
+    "dam_id": "DAM_080",
+    "birth_weight": 2.14,
+    "weaning_weight": 12.28,
+    "average_daily_gain": 0.1014
+  },
+  {
+    "kid_id": 23174966,
+    "sire": "SIRE_14",
+    "dam_id": "DAM_060",
+    "birth_weight": 2.34,
+    "weaning_weight": 13.16,
+    "average_daily_gain": 0.1082
+  },
+  {
+    "kid_id": 23121640,
+    "sire": "SIRE_11",
+    "dam_id": "DAM_057",
+    "birth_weight": 3.03,
+    "weaning_weight": 10.6,
+    "average_daily_gain": 0.0757
+  },
+  {
+    "kid_id": 23171134,
+    "sire": "SIRE_08",
+    "dam_id": "DAM_053",
+    "birth_weight": 2.74,
+    "weaning_weight": 14.77,
+    "average_daily_gain": 0.1203
+  },
+  {
+    "kid_id": 23156593,
+    "sire": "SIRE_16",
+    "dam_id": "DAM_050",
+    "birth_weight": 1.66,
+    "weaning_weight": 10.43,
+    "average_daily_gain": 0.0877
+  },
+  {
+    "kid_id": 23186053,
+    "sire": "SIRE_20",
+    "dam_id": "DAM_012",
+    "birth_weight": 1.77,
+    "weaning_weight": 14.42,
+    "average_daily_gain": 0.1265
+  },
+  {
+    "kid_id": 23153936,
+    "sire": "SIRE_07",
+    "dam_id": "DAM_066",
+    "birth_weight": 3.24,
+    "weaning_weight": 13.74,
+    "average_daily_gain": 0.105
+  },
+  {
+    "kid_id": 23128743,
+    "sire": "SIRE_08",
+    "dam_id": "DAM_068",
+    "birth_weight": 3.35,
+    "weaning_weight": 15.61,
+    "average_daily_gain": 0.1226
+  },
+  {
+    "kid_id": 23183539,
+    "sire": "SIRE_07",
+    "dam_id": "DAM_077",
+    "birth_weight": 2.89,
+    "weaning_weight": 12.57,
+    "average_daily_gain": 0.0968
+  },
+  {
+    "kid_id": 23157897,
+    "sire": "SIRE_05",
+    "dam_id": "DAM_032",
+    "birth_weight": 2.46,
+    "weaning_weight": null,
+    "average_daily_gain": null
+  },
+  {
+    "kid_id": 23117763,
+    "sire": "SIRE_08",
+    "dam_id": "DAM_094",
+    "birth_weight": 2.06,
+    "weaning_weight": 12.53,
+    "average_daily_gain": 0.1047
+  },
+  {
+    "kid_id": 23121512,
+    "sire": "SIRE_10",
+    "dam_id": "DAM_073",
+    "birth_weight": 2.62,
+    "weaning_weight": 12.13,
+    "average_daily_gain": 0.0951
+  },
+  {
+    "kid_id": 23142470,
+    "sire": "SIRE_12",
+    "dam_id": "DAM_079",
+    "birth_weight": 3.49,
+    "weaning_weight": null,
+    "average_daily_gain": null
+  },
+  {
+    "kid_id": 23168671,
+    "sire": "SIRE_13",
+    "dam_id": "DAM_099",
+    "birth_weight": 3.04,
+    "weaning_weight": null,
+    "average_daily_gain": null
+  },
+  {
+    "kid_id": 23148141,
+    "sire": "SIRE_20",
+    "dam_id": "DAM_012",
+    "birth_weight": 4.15,
+    "weaning_weight": 16.03,
+    "average_daily_gain": 0.1188
+  },
+  {
+    "kid_id": 23121046,
+    "sire": "SIRE_15",
+    "dam_id": "DAM_013",
+    "birth_weight": 3.81,
+    "weaning_weight": null,
+    "average_daily_gain": null
+  },
+  {
+    "kid_id": 23159005,
+    "sire": "SIRE_16",
+    "dam_id": "DAM_002",
+    "birth_weight": 3.71,
+    "weaning_weight": 12.58,
+    "average_daily_gain": 0.0887
+  },
+  {
+    "kid_id": 23148816,
+    "sire": "SIRE_09",
+    "dam_id": "DAM_030",
+    "birth_weight": 1.79,
+    "weaning_weight": null,
+    "average_daily_gain": null
+  },
+  {
+    "kid_id": 23111088,
+    "sire": "SIRE_10",
+    "dam_id": "DAM_031",
+    "birth_weight": 3.39,
+    "weaning_weight": 15.49,
+    "average_daily_gain": 0.121
+  },
+  {
+    "kid_id": 23159040,
+    "sire": "SIRE_20",
+    "dam_id": "DAM_012",
+    "birth_weight": 1.32,
+    "weaning_weight": 11.12,
+    "average_daily_gain": 0.098
+  },
+  {
+    "kid_id": 23171603,
+    "sire": "SIRE_11",
+    "dam_id": "DAM_029",
+    "birth_weight": 2.94,
+    "weaning_weight": 15.61,
+    "average_daily_gain": 0.1267
+  },
+  {
+    "kid_id": 23169916,
+    "sire": "SIRE_03",
+    "dam_id": "DAM_100",
+    "birth_weight": 2.46,
+    "weaning_weight": 12.77,
+    "average_daily_gain": 0.1031
+  },
+  {
+    "kid_id": 23166097,
+    "sire": "SIRE_02",
+    "dam_id": "DAM_010",
+    "birth_weight": 2.96,
+    "weaning_weight": null,
+    "average_daily_gain": null
+  },
+  {
+    "kid_id": 23132132,
+    "sire": "SIRE_16",
+    "dam_id": "DAM_025",
+    "birth_weight": 2.8,
+    "weaning_weight": 13.97,
+    "average_daily_gain": 0.1117
+  },
+  {
+    "kid_id": 23182750,
+    "sire": "SIRE_10",
+    "dam_id": "DAM_020",
+    "birth_weight": 2.83,
+    "weaning_weight": 14.86,
+    "average_daily_gain": 0.1203
+  },
+  {
+    "kid_id": 23191848,
+    "sire": "SIRE_09",
+    "dam_id": "DAM_004",
+    "birth_weight": 2.69,
+    "weaning_weight": 14.84,
+    "average_daily_gain": 0.1215
+  },
+  {
+    "kid_id": 23183797,
+    "sire": "SIRE_19",
+    "dam_id": "DAM_061",
+    "birth_weight": 1.96,
+    "weaning_weight": null,
+    "average_daily_gain": null
+  },
+  {
+    "kid_id": 23135901,
+    "sire": "SIRE_13",
+    "dam_id": "DAM_085",
+    "birth_weight": 2.11,
+    "weaning_weight": null,
+    "average_daily_gain": null
+  },
+  {
+    "kid_id": 23197136,
+    "sire": "SIRE_17",
+    "dam_id": "DAM_093",
+    "birth_weight": 3.05,
+    "weaning_weight": 15.59,
+    "average_daily_gain": 0.1254
+  },
+  {
+    "kid_id": 23183781,
+    "sire": "SIRE_17",
+    "dam_id": "DAM_084",
+    "birth_weight": 2.89,
+    "weaning_weight": 15.74,
+    "average_daily_gain": 0.1285
+  },
+  {
+    "kid_id": 23159343,
+    "sire": "SIRE_20",
+    "dam_id": "DAM_064",
+    "birth_weight": 2.22,
+    "weaning_weight": 11.7,
+    "average_daily_gain": 0.0948
+  },
+  {
+    "kid_id": 23183198,
+    "sire": "SIRE_03",
+    "dam_id": "DAM_074",
+    "birth_weight": 2.32,
+    "weaning_weight": 11.65,
+    "average_daily_gain": 0.0933
+  },
+  {
+    "kid_id": 23118998,
+    "sire": "SIRE_16",
+    "dam_id": "DAM_071",
+    "birth_weight": 3.96,
+    "weaning_weight": 13.44,
+    "average_daily_gain": 0.0948
+  },
+  {
+    "kid_id": 23155837,
+    "sire": "SIRE_18",
+    "dam_id": "DAM_006",
+    "birth_weight": 2.31,
+    "weaning_weight": 13.96,
+    "average_daily_gain": 0.1165
+  },
+  {
+    "kid_id": 23129721,
+    "sire": "SIRE_16",
+    "dam_id": "DAM_089",
+    "birth_weight": 1.8,
+    "weaning_weight": 13.33,
+    "average_daily_gain": 0.1153
+  },
+  {
+    "kid_id": 23143403,
+    "sire": "SIRE_02",
+    "dam_id": "DAM_010",
+    "birth_weight": 2.5,
+    "weaning_weight": null,
+    "average_daily_gain": null
+  },
+  {
+    "kid_id": 23163276,
+    "sire": "SIRE_20",
+    "dam_id": "DAM_046",
+    "birth_weight": 2.99,
+    "weaning_weight": 13.86,
+    "average_daily_gain": 0.1087
+  },
+  {
+    "kid_id": 23188541,
+    "sire": "SIRE_04",
+    "dam_id": "DAM_058",
+    "birth_weight": 3.14,
+    "weaning_weight": 16.19,
+    "average_daily_gain": 0.1305
+  },
+  {
+    "kid_id": 23158712,
+    "sire": "SIRE_10",
+    "dam_id": "DAM_031",
+    "birth_weight": 2.17,
+    "weaning_weight": 14.55,
+    "average_daily_gain": 0.1238
+  },
+  {
+    "kid_id": 23133174,
+    "sire": "SIRE_09",
+    "dam_id": "DAM_065",
+    "birth_weight": 3.44,
+    "weaning_weight": null,
+    "average_daily_gain": null
+  },
+  {
+    "kid_id": 23151548,
+    "sire": "SIRE_16",
+    "dam_id": "DAM_051",
+    "birth_weight": 3.12,
+    "weaning_weight": 17.62,
+    "average_daily_gain": 0.145
+  },
+  {
+    "kid_id": 23121640,
+    "sire": "SIRE_20",
+    "dam_id": "DAM_012",
+    "birth_weight": 2.77,
+    "weaning_weight": 14.05,
+    "average_daily_gain": 0.1128
+  },
+  {
+    "kid_id": 23118406,
+    "sire": "SIRE_10",
+    "dam_id": "DAM_031",
+    "birth_weight": 2.55,
+    "weaning_weight": null,
+    "average_daily_gain": null
+  },
+  {
+    "kid_id": 23146070,
+    "sire": "SIRE_20",
+    "dam_id": "DAM_064",
+    "birth_weight": 2.92,
+    "weaning_weight": 12.61,
+    "average_daily_gain": 0.0969
+  },
+  {
+    "kid_id": 23185609,
+    "sire": "SIRE_08",
+    "dam_id": "DAM_022",
+    "birth_weight": 1.44,
+    "weaning_weight": 9.64,
+    "average_daily_gain": 0.082
+  },
+  {
+    "kid_id": 23192840,
+    "sire": "SIRE_09",
+    "dam_id": "DAM_004",
+    "birth_weight": 2.58,
+    "weaning_weight": 16.55,
+    "average_daily_gain": 0.1397
+  },
+  {
+    "kid_id": 23123313,
+    "sire": "SIRE_04",
+    "dam_id": "DAM_023",
+    "birth_weight": 2.33,
+    "weaning_weight": 12.97,
+    "average_daily_gain": 0.1064
+  },
+  {
+    "kid_id": 23163073,
+    "sire": "SIRE_16",
+    "dam_id": "DAM_071",
+    "birth_weight": 2.74,
+    "weaning_weight": 13.83,
+    "average_daily_gain": 0.1109
+  },
+  {
+    "kid_id": 23165497,
+    "sire": "SIRE_05",
+    "dam_id": "DAM_032",
+    "birth_weight": 2.35,
+    "weaning_weight": 14.35,
+    "average_daily_gain": 0.12
+  },
+  {
+    "kid_id": 23127727,
+    "sire": "SIRE_08",
+    "dam_id": "DAM_044",
+    "birth_weight": 2.7,
+    "weaning_weight": 18.48,
+    "average_daily_gain": 0.1578
+  },
+  {
+    "kid_id": 23196558,
+    "sire": "SIRE_04",
+    "dam_id": "DAM_052",
+    "birth_weight": 3.79,
+    "weaning_weight": null,
+    "average_daily_gain": null
+  },
+  {
+    "kid_id": 23121543,
+    "sire": "SIRE_17",
+    "dam_id": "DAM_093",
+    "birth_weight": 2.9,
+    "weaning_weight": 13.11,
+    "average_daily_gain": 0.1021
+  },
+  {
+    "kid_id": 23134188,
+    "sire": "SIRE_14",
+    "dam_id": "DAM_080",
+    "birth_weight": 3.01,
+    "weaning_weight": 12.42,
+    "average_daily_gain": 0.0941
+  },
+  {
+    "kid_id": 23144552,
+    "sire": "SIRE_16",
+    "dam_id": "DAM_050",
+    "birth_weight": 3.28,
+    "weaning_weight": null,
+    "average_daily_gain": null
+  },
+  {
+    "kid_id": 23188165,
+    "sire": "SIRE_13",
+    "dam_id": "DAM_085",
+    "birth_weight": 2.74,
+    "weaning_weight": 13.44,
+    "average_daily_gain": 0.107
+  },
+  {
+    "kid_id": 23160875,
+    "sire": "SIRE_12",
+    "dam_id": "DAM_034",
+    "birth_weight": 2.79,
+    "weaning_weight": 15.27,
+    "average_daily_gain": 0.1248
+  },
+  {
+    "kid_id": 23115988,
+    "sire": "SIRE_14",
+    "dam_id": "DAM_075",
+    "birth_weight": 2.55,
+    "weaning_weight": null,
+    "average_daily_gain": null
+  },
+  {
+    "kid_id": 23173554,
+    "sire": "SIRE_15",
+    "dam_id": "DAM_086",
+    "birth_weight": 3.67,
+    "weaning_weight": 16.84,
+    "average_daily_gain": 0.1317
+  },
+  {
+    "kid_id": 23131547,
+    "sire": "SIRE_19",
+    "dam_id": "DAM_061",
+    "birth_weight": 1.84,
+    "weaning_weight": 6.62,
+    "average_daily_gain": 0.0478
+  },
+  {
+    "kid_id": 23155156,
+    "sire": "SIRE_06",
+    "dam_id": "DAM_096",
+    "birth_weight": 4.23,
+    "weaning_weight": 17.53,
+    "average_daily_gain": 0.133
+  },
+  {
+    "kid_id": 23148201,
+    "sire": "SIRE_05",
+    "dam_id": "DAM_032",
+    "birth_weight": 2.84,
+    "weaning_weight": 10.73,
+    "average_daily_gain": 0.0789
+  },
+  {
+    "kid_id": 23177776,
+    "sire": "SIRE_06",
+    "dam_id": "DAM_039",
+    "birth_weight": 2.82,
+    "weaning_weight": 13.95,
+    "average_daily_gain": 0.1113
+  },
+  {
+    "kid_id": 23170745,
+    "sire": "SIRE_11",
+    "dam_id": "DAM_021",
+    "birth_weight": 2.87,
+    "weaning_weight": 15.42,
+    "average_daily_gain": 0.1255
+  },
+  {
+    "kid_id": 23174034,
+    "sire": "SIRE_11",
+    "dam_id": "DAM_017",
+    "birth_weight": 3.21,
+    "weaning_weight": null,
+    "average_daily_gain": null
+  },
+  {
+    "kid_id": 23196220,
+    "sire": "SIRE_01",
+    "dam_id": "DAM_056",
+    "birth_weight": 2.39,
+    "weaning_weight": null,
+    "average_daily_gain": null
+  },
+  {
+    "kid_id": 23168584,
+    "sire": "SIRE_15",
+    "dam_id": "DAM_015",
+    "birth_weight": 3.69,
+    "weaning_weight": 14.57,
+    "average_daily_gain": 0.1088
+  },
+  {
+    "kid_id": 23139573,
+    "sire": "SIRE_05",
+    "dam_id": "DAM_009",
+    "birth_weight": 2.64,
+    "weaning_weight": 13.5,
+    "average_daily_gain": 0.1086
+  },
+  {
+    "kid_id": 23153174,
+    "sire": "SIRE_09",
+    "dam_id": "DAM_047",
+    "birth_weight": 2.54,
+    "weaning_weight": 11.49,
+    "average_daily_gain": 0.0895
+  },
+  {
+    "kid_id": 23131967,
+    "sire": "SIRE_09",
+    "dam_id": "DAM_091",
+    "birth_weight": 3.04,
+    "weaning_weight": null,
+    "average_daily_gain": null
+  },
+  {
+    "kid_id": 23127330,
+    "sire": "SIRE_09",
+    "dam_id": "DAM_030",
+    "birth_weight": 2.43,
+    "weaning_weight": 14.9,
+    "average_daily_gain": 0.1247
+  },
+  {
+    "kid_id": 23175091,
+    "sire": "SIRE_16",
+    "dam_id": "DAM_050",
+    "birth_weight": 2.43,
+    "weaning_weight": 10.01,
+    "average_daily_gain": 0.0758
+  },
+  {
+    "kid_id": 23185651,
+    "sire": "SIRE_13",
+    "dam_id": "DAM_085",
+    "birth_weight": 2.67,
+    "weaning_weight": 13.49,
+    "average_daily_gain": 0.1082
+  },
+  {
+    "kid_id": 23146612,
+    "sire": "SIRE_08",
+    "dam_id": "DAM_068",
+    "birth_weight": 2.6,
+    "weaning_weight": 14.14,
+    "average_daily_gain": 0.1154
+  },
+  {
+    "kid_id": 23175244,
+    "sire": "SIRE_18",
+    "dam_id": "DAM_037",
+    "birth_weight": 3.38,
+    "weaning_weight": 16.31,
+    "average_daily_gain": 0.1293
+  },
+  {
+    "kid_id": 23193824,
+    "sire": "SIRE_13",
+    "dam_id": "DAM_085",
+    "birth_weight": 2.86,
+    "weaning_weight": 14.67,
+    "average_daily_gain": 0.1181
+  },
+  {
+    "kid_id": 23172023,
+    "sire": "SIRE_15",
+    "dam_id": "DAM_086",
+    "birth_weight": 2.79,
+    "weaning_weight": 13.08,
+    "average_daily_gain": 0.1029
+  },
+  {
+    "kid_id": 23137447,
+    "sire": "SIRE_15",
+    "dam_id": "DAM_059",
+    "birth_weight": 2.21,
+    "weaning_weight": 10.36,
+    "average_daily_gain": 0.0815
+  },
+  {
+    "kid_id": 23162461,
+    "sire": "SIRE_16",
+    "dam_id": "DAM_050",
+    "birth_weight": 2.6,
+    "weaning_weight": 11.71,
+    "average_daily_gain": 0.0911
+  },
+  {
+    "kid_id": 23111974,
+    "sire": "SIRE_13",
+    "dam_id": "DAM_040",
+    "birth_weight": 2.72,
+    "weaning_weight": 13.99,
+    "average_daily_gain": 0.1127
+  },
+  {
+    "kid_id": 23145234,
+    "sire": "SIRE_03",
+    "dam_id": "DAM_018",
+    "birth_weight": 3.41,
+    "weaning_weight": 15.62,
+    "average_daily_gain": 0.1221
+  },
+  {
+    "kid_id": 23133324,
+    "sire": "SIRE_14",
+    "dam_id": "DAM_003",
+    "birth_weight": 2.35,
+    "weaning_weight": 13.59,
+    "average_daily_gain": 0.1124
+  },
+  {
+    "kid_id": 23147823,
+    "sire": "SIRE_10",
+    "dam_id": "DAM_031",
+    "birth_weight": 2.19,
+    "weaning_weight": 12.62,
+    "average_daily_gain": 0.1043
+  },
+  {
+    "kid_id": 23147396,
+    "sire": "SIRE_17",
+    "dam_id": "DAM_028",
+    "birth_weight": 2.39,
+    "weaning_weight": null,
+    "average_daily_gain": null
+  },
+  {
+    "kid_id": 23174212,
+    "sire": "SIRE_13",
+    "dam_id": "DAM_099",
+    "birth_weight": 3.33,
+    "weaning_weight": 17.22,
+    "average_daily_gain": 0.1389
+  },
+  {
+    "kid_id": 23198628,
+    "sire": "SIRE_07",
+    "dam_id": "DAM_077",
+    "birth_weight": 2.95,
+    "weaning_weight": null,
+    "average_daily_gain": null
+  },
+  {
+    "kid_id": 23135625,
+    "sire": "SIRE_05",
+    "dam_id": "DAM_097",
+    "birth_weight": 2.38,
+    "weaning_weight": 10.7,
+    "average_daily_gain": 0.0832
+  },
+  {
+    "kid_id": 23116675,
+    "sire": "SIRE_20",
+    "dam_id": "DAM_012",
+    "birth_weight": 3.94,
+    "weaning_weight": null,
+    "average_daily_gain": null
+  },
+  {
+    "kid_id": 23168469,
+    "sire": "SIRE_01",
+    "dam_id": "DAM_056",
+    "birth_weight": 3.07,
+    "weaning_weight": 17.55,
+    "average_daily_gain": 0.1448
+  },
+  {
+    "kid_id": 23119652,
+    "sire": "SIRE_13",
+    "dam_id": "DAM_099",
+    "birth_weight": 2.67,
+    "weaning_weight": null,
+    "average_daily_gain": null
+  },
+  {
+    "kid_id": 23197330,
+    "sire": "SIRE_14",
+    "dam_id": "DAM_075",
+    "birth_weight": 2.49,
+    "weaning_weight": 10.05,
+    "average_daily_gain": 0.0756
+  },
+  {
+    "kid_id": 23136799,
+    "sire": "SIRE_09",
+    "dam_id": "DAM_005",
+    "birth_weight": 2.5,
+    "weaning_weight": 12.14,
+    "average_daily_gain": 0.0964
+  },
+  {
+    "kid_id": 23188749,
+    "sire": "SIRE_13",
+    "dam_id": "DAM_099",
+    "birth_weight": 2.67,
+    "weaning_weight": 10.72,
+    "average_daily_gain": 0.0805
+  },
+  {
+    "kid_id": 23131771,
+    "sire": "SIRE_16",
+    "dam_id": "DAM_042",
+    "birth_weight": 2.56,
+    "weaning_weight": 15.38,
+    "average_daily_gain": 0.1282
+  },
+  {
+    "kid_id": 23129973,
+    "sire": "SIRE_01",
+    "dam_id": "DAM_056",
+    "birth_weight": 2.54,
+    "weaning_weight": 14.69,
+    "average_daily_gain": 0.1215
+  },
+  {
+    "kid_id": 23150002,
+    "sire": "SIRE_04",
+    "dam_id": "DAM_083",
+    "birth_weight": 3.19,
+    "weaning_weight": 11.08,
+    "average_daily_gain": 0.0789
+  },
+  {
+    "kid_id": 23195782,
+    "sire": "SIRE_09",
+    "dam_id": "DAM_005",
+    "birth_weight": 2.13,
+    "weaning_weight": 12.75,
+    "average_daily_gain": 0.1062
+  },
+  {
+    "kid_id": 23178641,
+    "sire": "SIRE_04",
+    "dam_id": "DAM_072",
+    "birth_weight": 3.19,
+    "weaning_weight": 12.6,
+    "average_daily_gain": 0.0941
+  },
+  {
+    "kid_id": 23176587,
+    "sire": "SIRE_03",
+    "dam_id": "DAM_074",
+    "birth_weight": 3.29,
+    "weaning_weight": 14.54,
+    "average_daily_gain": 0.1125
+  },
+  {
+    "kid_id": 23191702,
+    "sire": "SIRE_19",
+    "dam_id": "DAM_024",
+    "birth_weight": 3.63,
+    "weaning_weight": 14.4,
+    "average_daily_gain": 0.1077
+  },
+  {
+    "kid_id": 23149937,
+    "sire": "SIRE_02",
+    "dam_id": "DAM_001",
+    "birth_weight": 2.99,
+    "weaning_weight": 13.0,
+    "average_daily_gain": 0.1001
+  },
+  {
+    "kid_id": 23157754,
+    "sire": "SIRE_14",
+    "dam_id": "DAM_003",
+    "birth_weight": 2.43,
+    "weaning_weight": 12.07,
+    "average_daily_gain": 0.0964
+  },
+  {
+    "kid_id": 23164954,
+    "sire": "SIRE_08",
+    "dam_id": "DAM_068",
+    "birth_weight": 2.07,
+    "weaning_weight": null,
+    "average_daily_gain": null
+  },
+  {
+    "kid_id": 23157176,
+    "sire": "SIRE_18",
+    "dam_id": "DAM_035",
+    "birth_weight": 4.5,
+    "weaning_weight": 16.59,
+    "average_daily_gain": 0.1209
+  },
+  {
+    "kid_id": 23173866,
+    "sire": "SIRE_14",
+    "dam_id": "DAM_060",
+    "birth_weight": 2.56,
+    "weaning_weight": null,
+    "average_daily_gain": null
+  },
+  {
+    "kid_id": 23159469,
+    "sire": "SIRE_16",
+    "dam_id": "DAM_089",
+    "birth_weight": 2.23,
+    "weaning_weight": 13.56,
+    "average_daily_gain": 0.1133
+  },
+  {
+    "kid_id": 23170750,
+    "sire": "SIRE_18",
+    "dam_id": "DAM_035",
+    "birth_weight": 2.04,
+    "weaning_weight": 13.83,
+    "average_daily_gain": 0.1179
+  },
+  {
+    "kid_id": 23158021,
+    "sire": "SIRE_03",
+    "dam_id": "DAM_100",
+    "birth_weight": 2.96,
+    "weaning_weight": null,
+    "average_daily_gain": null
+  },
+  {
+    "kid_id": 23158074,
+    "sire": "SIRE_16",
+    "dam_id": "DAM_014",
+    "birth_weight": 3.29,
+    "weaning_weight": 11.55,
+    "average_daily_gain": 0.0826
+  },
+  {
+    "kid_id": 23115426,
+    "sire": "SIRE_13",
+    "dam_id": "DAM_040",
+    "birth_weight": 2.28,
+    "weaning_weight": 16.26,
+    "average_daily_gain": 0.1398
+  },
+  {
+    "kid_id": 23140965,
+    "sire": "SIRE_16",
+    "dam_id": "DAM_014",
+    "birth_weight": 3.93,
+    "weaning_weight": 13.86,
+    "average_daily_gain": 0.0993
+  },
+  {
+    "kid_id": 23141577,
+    "sire": "SIRE_11",
+    "dam_id": "DAM_021",
+    "birth_weight": 2.85,
+    "weaning_weight": 12.73,
+    "average_daily_gain": 0.0988
+  },
+  {
+    "kid_id": 23196682,
+    "sire": "SIRE_20",
+    "dam_id": "DAM_064",
+    "birth_weight": 3.47,
+    "weaning_weight": 14.53,
+    "average_daily_gain": 0.1106
+  },
+  {
+    "kid_id": 23189864,
+    "sire": "SIRE_06",
+    "dam_id": "DAM_096",
+    "birth_weight": 2.74,
+    "weaning_weight": 12.4,
+    "average_daily_gain": 0.0966
+  },
+  {
+    "kid_id": 23198244,
+    "sire": "SIRE_11",
+    "dam_id": "DAM_029",
+    "birth_weight": 2.61,
+    "weaning_weight": 10.82,
+    "average_daily_gain": 0.0821
+  },
+  {
+    "kid_id": 23160441,
+    "sire": "SIRE_02",
+    "dam_id": "DAM_033",
+    "birth_weight": 3.11,
+    "weaning_weight": null,
+    "average_daily_gain": null
+  },
+  {
+    "kid_id": 23198558,
+    "sire": "SIRE_14",
+    "dam_id": "DAM_075",
+    "birth_weight": 3.23,
+    "weaning_weight": 14.78,
+    "average_daily_gain": 0.1155
+  },
+  {
+    "kid_id": 23112250,
+    "sire": "SIRE_09",
+    "dam_id": "DAM_030",
+    "birth_weight": 1.96,
+    "weaning_weight": 13.46,
+    "average_daily_gain": 0.115
+  },
+  {
+    "kid_id": 23125964,
+    "sire": "SIRE_16",
+    "dam_id": "DAM_016",
+    "birth_weight": 4.36,
+    "weaning_weight": null,
+    "average_daily_gain": null
+  },
+  {
+    "kid_id": 23132553,
+    "sire": "SIRE_14",
+    "dam_id": "DAM_080",
+    "birth_weight": 2.65,
+    "weaning_weight": 14.62,
+    "average_daily_gain": 0.1197
+  },
+  {
+    "kid_id": 23187486,
+    "sire": "SIRE_18",
+    "dam_id": "DAM_048",
+    "birth_weight": 3.71,
+    "weaning_weight": null,
+    "average_daily_gain": null
+  },
+  {
+    "kid_id": 23133009,
+    "sire": "SIRE_09",
+    "dam_id": "DAM_082",
+    "birth_weight": 2.46,
+    "weaning_weight": 12.2,
+    "average_daily_gain": 0.0974
+  },
+  {
+    "kid_id": 23152324,
+    "sire": "SIRE_17",
+    "dam_id": "DAM_019",
+    "birth_weight": 3.41,
+    "weaning_weight": 16.98,
+    "average_daily_gain": 0.1357
+  },
+  {
+    "kid_id": 23148442,
+    "sire": "SIRE_07",
+    "dam_id": "DAM_066",
+    "birth_weight": 2.47,
+    "weaning_weight": null,
+    "average_daily_gain": null
+  },
+  {
+    "kid_id": 23194117,
+    "sire": "SIRE_08",
+    "dam_id": "DAM_044",
+    "birth_weight": 3.28,
+    "weaning_weight": null,
+    "average_daily_gain": null
+  },
+  {
+    "kid_id": 23176531,
+    "sire": "SIRE_11",
+    "dam_id": "DAM_011",
+    "birth_weight": 2.18,
+    "weaning_weight": 8.94,
+    "average_daily_gain": 0.0676
+  },
+  {
+    "kid_id": 23161492,
+    "sire": "SIRE_02",
+    "dam_id": "DAM_007",
+    "birth_weight": 2.27,
+    "weaning_weight": 12.36,
+    "average_daily_gain": 0.1009
+  },
+  {
+    "kid_id": 23181113,
+    "sire": "SIRE_05",
+    "dam_id": "DAM_032",
+    "birth_weight": 2.41,
+    "weaning_weight": null,
+    "average_daily_gain": null
+  },
+  {
+    "kid_id": 23167200,
+    "sire": "SIRE_06",
+    "dam_id": "DAM_039",
+    "birth_weight": 3.39,
+    "weaning_weight": 13.5,
+    "average_daily_gain": 0.1011
+  },
+  {
+    "kid_id": 23150434,
+    "sire": "SIRE_11",
+    "dam_id": "DAM_021",
+    "birth_weight": 3.0,
+    "weaning_weight": null,
+    "average_daily_gain": null
+  },
+  {
+    "kid_id": 23130749,
+    "sire": "SIRE_16",
+    "dam_id": "DAM_042",
+    "birth_weight": 2.9,
+    "weaning_weight": 15.04,
+    "average_daily_gain": 0.1214
+  },
+  {
+    "kid_id": 23147329,
+    "sire": "SIRE_02",
+    "dam_id": "DAM_087",
+    "birth_weight": 2.81,
+    "weaning_weight": 13.39,
+    "average_daily_gain": 0.1058
+  },
+  {
+    "kid_id": 23134735,
+    "sire": "SIRE_14",
+    "dam_id": "DAM_049",
+    "birth_weight": 1.8,
+    "weaning_weight": 12.78,
+    "average_daily_gain": 0.1098
+  },
+  {
+    "kid_id": 23159603,
+    "sire": "SIRE_12",
+    "dam_id": "DAM_079",
+    "birth_weight": 2.36,
+    "weaning_weight": 12.65,
+    "average_daily_gain": 0.1029
+  },
+  {
+    "kid_id": 23130611,
+    "sire": "SIRE_02",
+    "dam_id": "DAM_033",
+    "birth_weight": 1.43,
+    "weaning_weight": null,
+    "average_daily_gain": null
+  },
+  {
+    "kid_id": 23187693,
+    "sire": "SIRE_02",
+    "dam_id": "DAM_069",
+    "birth_weight": 3.71,
+    "weaning_weight": null,
+    "average_daily_gain": null
+  },
+  {
+    "kid_id": 23132217,
+    "sire": "SIRE_08",
+    "dam_id": "DAM_094",
+    "birth_weight": 2.01,
+    "weaning_weight": null,
+    "average_daily_gain": null
+  },
+  {
+    "kid_id": 23187756,
+    "sire": "SIRE_04",
+    "dam_id": "DAM_072",
+    "birth_weight": 2.95,
+    "weaning_weight": 14.5,
+    "average_daily_gain": 0.1155
+  },
+  {
+    "kid_id": 23138711,
+    "sire": "SIRE_16",
+    "dam_id": "DAM_014",
+    "birth_weight": 3.08,
+    "weaning_weight": 14.44,
+    "average_daily_gain": 0.1136
+  },
+  {
+    "kid_id": 23193959,
+    "sire": "SIRE_17",
+    "dam_id": "DAM_019",
+    "birth_weight": 3.42,
+    "weaning_weight": 11.6,
+    "average_daily_gain": 0.0818
+  },
+  {
+    "kid_id": 23173562,
+    "sire": "SIRE_08",
+    "dam_id": "DAM_063",
+    "birth_weight": 3.31,
+    "weaning_weight": 17.19,
+    "average_daily_gain": 0.1388
+  },
+  {
+    "kid_id": 23130764,
+    "sire": "SIRE_14",
+    "dam_id": "DAM_060",
+    "birth_weight": 1.62,
+    "weaning_weight": 11.42,
+    "average_daily_gain": 0.098
+  },
+  {
+    "kid_id": 23135259,
+    "sire": "SIRE_15",
+    "dam_id": "DAM_086",
+    "birth_weight": 3.93,
+    "weaning_weight": 16.68,
+    "average_daily_gain": 0.1275
+  },
+  {
+    "kid_id": 23190702,
+    "sire": "SIRE_05",
+    "dam_id": "DAM_078",
+    "birth_weight": 2.01,
+    "weaning_weight": 11.89,
+    "average_daily_gain": 0.0988
+  },
+  {
+    "kid_id": 23132362,
+    "sire": "SIRE_17",
+    "dam_id": "DAM_092",
+    "birth_weight": 2.32,
+    "weaning_weight": 15.85,
+    "average_daily_gain": 0.1353
+  },
+  {
+    "kid_id": 23191847,
+    "sire": "SIRE_13",
+    "dam_id": "DAM_099",
+    "birth_weight": 3.21,
+    "weaning_weight": 13.23,
+    "average_daily_gain": 0.1002
+  },
+  {
+    "kid_id": 23123363,
+    "sire": "SIRE_05",
+    "dam_id": "DAM_032",
+    "birth_weight": 2.95,
+    "weaning_weight": 14.41,
+    "average_daily_gain": 0.1146
+  },
+  {
+    "kid_id": 23136679,
+    "sire": "SIRE_08",
+    "dam_id": "DAM_022",
+    "birth_weight": 3.09,
+    "weaning_weight": 15.99,
+    "average_daily_gain": 0.129
+  },
+  {
+    "kid_id": 23184094,
+    "sire": "SIRE_14",
+    "dam_id": "DAM_008",
+    "birth_weight": 2.96,
+    "weaning_weight": 10.7,
+    "average_daily_gain": 0.0774
+  },
+  {
+    "kid_id": 23144499,
+    "sire": "SIRE_16",
+    "dam_id": "DAM_002",
+    "birth_weight": 2.57,
+    "weaning_weight": 10.98,
+    "average_daily_gain": 0.0841
+  },
+  {
+    "kid_id": 23186070,
+    "sire": "SIRE_16",
+    "dam_id": "DAM_071",
+    "birth_weight": 3.96,
+    "weaning_weight": 18.19,
+    "average_daily_gain": 0.1423
+  },
+  {
+    "kid_id": 23121175,
+    "sire": "SIRE_17",
+    "dam_id": "DAM_090",
+    "birth_weight": 3.75,
+    "weaning_weight": 15.06,
+    "average_daily_gain": 0.1131
+  },
+  {
+    "kid_id": 23179876,
+    "sire": "SIRE_15",
+    "dam_id": "DAM_015",
+    "birth_weight": 2.17,
+    "weaning_weight": null,
+    "average_daily_gain": null
+  },
+  {
+    "kid_id": 23181491,
+    "sire": "SIRE_16",
+    "dam_id": "DAM_051",
+    "birth_weight": 2.12,
+    "weaning_weight": 12.25,
+    "average_daily_gain": 0.1013
+  },
+  {
+    "kid_id": 23193174,
+    "sire": "SIRE_16",
+    "dam_id": "DAM_002",
+    "birth_weight": 4.0,
+    "weaning_weight": 17.47,
+    "average_daily_gain": 0.1347
+  },
+  {
+    "kid_id": 23144935,
+    "sire": "SIRE_15",
+    "dam_id": "DAM_013",
+    "birth_weight": 2.99,
+    "weaning_weight": null,
+    "average_daily_gain": null
+  },
+  {
+    "kid_id": 23147353,
+    "sire": "SIRE_10",
+    "dam_id": "DAM_054",
+    "birth_weight": 2.41,
+    "weaning_weight": 12.9,
+    "average_daily_gain": 0.1049
+  },
+  {
+    "kid_id": 23174944,
+    "sire": "SIRE_18",
+    "dam_id": "DAM_006",
+    "birth_weight": 2.19,
+    "weaning_weight": null,
+    "average_daily_gain": null
+  },
+  {
+    "kid_id": 23140914,
+    "sire": "SIRE_19",
+    "dam_id": "DAM_067",
+    "birth_weight": 1.66,
+    "weaning_weight": 11.21,
+    "average_daily_gain": 0.0955
+  },
+  {
+    "kid_id": 23114672,
+    "sire": "SIRE_14",
+    "dam_id": "DAM_060",
+    "birth_weight": 3.4,
+    "weaning_weight": 16.4,
+    "average_daily_gain": 0.13
+  },
+  {
+    "kid_id": 23185511,
+    "sire": "SIRE_13",
+    "dam_id": "DAM_026",
+    "birth_weight": 2.0,
+    "weaning_weight": 10.66,
+    "average_daily_gain": 0.0866
+  },
+  {
+    "kid_id": 23157272,
+    "sire": "SIRE_13",
+    "dam_id": "DAM_040",
+    "birth_weight": 2.75,
+    "weaning_weight": 16.18,
+    "average_daily_gain": 0.1343
+  },
+  {
+    "kid_id": 23178679,
+    "sire": "SIRE_11",
+    "dam_id": "DAM_057",
+    "birth_weight": 2.58,
+    "weaning_weight": null,
+    "average_daily_gain": null
+  },
+  {
+    "kid_id": 23123480,
+    "sire": "SIRE_16",
+    "dam_id": "DAM_042",
+    "birth_weight": 3.04,
+    "weaning_weight": 13.74,
+    "average_daily_gain": 0.107
+  },
+  {
+    "kid_id": 23113165,
+    "sire": "SIRE_14",
+    "dam_id": "DAM_080",
+    "birth_weight": 2.91,
+    "weaning_weight": 12.82,
+    "average_daily_gain": 0.0991
+  },
+  {
+    "kid_id": 23194551,
+    "sire": "SIRE_02",
+    "dam_id": "DAM_010",
+    "birth_weight": 3.01,
+    "weaning_weight": null,
+    "average_daily_gain": null
+  },
+  {
+    "kid_id": 23124401,
+    "sire": "SIRE_02",
+    "dam_id": "DAM_069",
+    "birth_weight": 2.99,
+    "weaning_weight": 12.11,
+    "average_daily_gain": 0.0912
+  },
+  {
+    "kid_id": 23133884,
+    "sire": "SIRE_03",
+    "dam_id": "DAM_018",
+    "birth_weight": 3.73,
+    "weaning_weight": 12.95,
+    "average_daily_gain": 0.0922
+  },
+  {
+    "kid_id": 23140837,
+    "sire": "SIRE_09",
+    "dam_id": "DAM_047",
+    "birth_weight": 1.63,
+    "weaning_weight": 11.43,
+    "average_daily_gain": 0.098
+  },
+  {
+    "kid_id": 23168129,
+    "sire": "SIRE_17",
+    "dam_id": "DAM_038",
+    "birth_weight": 2.86,
+    "weaning_weight": 15.44,
+    "average_daily_gain": 0.1258
+  },
+  {
+    "kid_id": 23168749,
+    "sire": "SIRE_03",
+    "dam_id": "DAM_074",
+    "birth_weight": 3.1,
+    "weaning_weight": 16.46,
+    "average_daily_gain": 0.1336
+  },
+  {
+    "kid_id": 23149994,
+    "sire": "SIRE_11",
+    "dam_id": "DAM_011",
+    "birth_weight": 2.43,
+    "weaning_weight": 12.12,
+    "average_daily_gain": 0.0969
+  },
+  {
+    "kid_id": 23187507,
+    "sire": "SIRE_14",
+    "dam_id": "DAM_080",
+    "birth_weight": 2.55,
+    "weaning_weight": 15.49,
+    "average_daily_gain": 0.1294
+  },
+  {
+    "kid_id": 23148791,
+    "sire": "SIRE_14",
+    "dam_id": "DAM_075",
+    "birth_weight": 2.55,
+    "weaning_weight": 16.31,
+    "average_daily_gain": 0.1376
+  },
+  {
+    "kid_id": 23198921,
+    "sire": "SIRE_17",
+    "dam_id": "DAM_038",
+    "birth_weight": 4.0,
+    "weaning_weight": 15.34,
+    "average_daily_gain": 0.1134
+  },
+  {
+    "kid_id": 23166586,
+    "sire": "SIRE_13",
+    "dam_id": "DAM_040",
+    "birth_weight": 2.74,
+    "weaning_weight": 19.44,
+    "average_daily_gain": 0.167
+  },
+  {
+    "kid_id": 23161425,
+    "sire": "SIRE_15",
+    "dam_id": "DAM_059",
+    "birth_weight": 2.41,
+    "weaning_weight": 14.57,
+    "average_daily_gain": 0.1216
+  },
+  {
+    "kid_id": 23161820,
+    "sire": "SIRE_08",
+    "dam_id": "DAM_094",
+    "birth_weight": 2.4,
+    "weaning_weight": 14.98,
+    "average_daily_gain": 0.1258
+  },
+  {
+    "kid_id": 23140423,
+    "sire": "SIRE_17",
+    "dam_id": "DAM_038",
+    "birth_weight": 3.1,
+    "weaning_weight": 13.82,
+    "average_daily_gain": 0.1072
+  },
+  {
+    "kid_id": 23139903,
+    "sire": "SIRE_11",
+    "dam_id": "DAM_017",
+    "birth_weight": 2.92,
+    "weaning_weight": null,
+    "average_daily_gain": null
+  },
+  {
+    "kid_id": 23112131,
+    "sire": "SIRE_06",
+    "dam_id": "DAM_096",
+    "birth_weight": 2.16,
+    "weaning_weight": 10.35,
+    "average_daily_gain": 0.0819
+  },
+  {
+    "kid_id": 23152558,
+    "sire": "SIRE_10",
+    "dam_id": "DAM_076",
+    "birth_weight": 3.12,
+    "weaning_weight": 13.31,
+    "average_daily_gain": 0.1019
+  },
+  {
+    "kid_id": 23153024,
+    "sire": "SIRE_11",
+    "dam_id": "DAM_021",
+    "birth_weight": 1.84,
+    "weaning_weight": 11.61,
+    "average_daily_gain": 0.0977
+  },
+  {
+    "kid_id": 23115134,
+    "sire": "SIRE_09",
+    "dam_id": "DAM_047",
+    "birth_weight": 2.73,
+    "weaning_weight": 13.96,
+    "average_daily_gain": 0.1123
+  },
+  {
+    "kid_id": 23110772,
+    "sire": "SIRE_14",
+    "dam_id": "DAM_049",
+    "birth_weight": 3.19,
+    "weaning_weight": 14.34,
+    "average_daily_gain": 0.1115
+  },
+  {
+    "kid_id": 23170613,
+    "sire": "SIRE_16",
+    "dam_id": "DAM_050",
+    "birth_weight": 1.72,
+    "weaning_weight": 11.56,
+    "average_daily_gain": 0.0984
+  },
+  {
+    "kid_id": 23122187,
+    "sire": "SIRE_09",
+    "dam_id": "DAM_030",
+    "birth_weight": 2.7,
+    "weaning_weight": 13.37,
+    "average_daily_gain": 0.1067
+  },
+  {
+    "kid_id": 23179539,
+    "sire": "SIRE_09",
+    "dam_id": "DAM_091",
+    "birth_weight": 3.34,
+    "weaning_weight": 12.71,
+    "average_daily_gain": 0.0937
+  },
+  {
+    "kid_id": 23141935,
+    "sire": "SIRE_06",
+    "dam_id": "DAM_096",
+    "birth_weight": 2.09,
+    "weaning_weight": 13.22,
+    "average_daily_gain": 0.1113
+  },
+  {
+    "kid_id": 23194714,
+    "sire": "SIRE_10",
+    "dam_id": "DAM_031",
+    "birth_weight": 2.81,
+    "weaning_weight": null,
+    "average_daily_gain": null
+  },
+  {
+    "kid_id": 23183483,
+    "sire": "SIRE_13",
+    "dam_id": "DAM_085",
+    "birth_weight": 2.01,
+    "weaning_weight": 11.58,
+    "average_daily_gain": 0.0957
+  },
+  {
+    "kid_id": 23156889,
+    "sire": "SIRE_11",
+    "dam_id": "DAM_017",
+    "birth_weight": 2.68,
+    "weaning_weight": null,
+    "average_daily_gain": null
+  },
+  {
+    "kid_id": 23119599,
+    "sire": "SIRE_15",
+    "dam_id": "DAM_086",
+    "birth_weight": 2.43,
+    "weaning_weight": 11.44,
+    "average_daily_gain": 0.0901
+  },
+  {
+    "kid_id": 23176582,
+    "sire": "SIRE_09",
+    "dam_id": "DAM_030",
+    "birth_weight": 1.83,
+    "weaning_weight": 12.44,
+    "average_daily_gain": 0.1061
+  },
+  {
+    "kid_id": 23119989,
+    "sire": "SIRE_07",
+    "dam_id": "DAM_077",
+    "birth_weight": 2.64,
+    "weaning_weight": 16.34,
+    "average_daily_gain": 0.137
+  },
+  {
+    "kid_id": 23164302,
+    "sire": "SIRE_18",
+    "dam_id": "DAM_095",
+    "birth_weight": 4.2,
+    "weaning_weight": 16.33,
+    "average_daily_gain": 0.1213
+  },
+  {
+    "kid_id": 23175405,
+    "sire": "SIRE_11",
+    "dam_id": "DAM_011",
+    "birth_weight": 2.7,
+    "weaning_weight": null,
+    "average_daily_gain": null
+  },
+  {
+    "kid_id": 23165593,
+    "sire": "SIRE_03",
+    "dam_id": "DAM_018",
+    "birth_weight": 3.1,
+    "weaning_weight": 14.72,
+    "average_daily_gain": 0.1162
+  },
+  {
+    "kid_id": 23126670,
+    "sire": "SIRE_16",
+    "dam_id": "DAM_025",
+    "birth_weight": 3.51,
+    "weaning_weight": 16.99,
+    "average_daily_gain": 0.1348
+  },
+  {
+    "kid_id": 23161687,
+    "sire": "SIRE_07",
+    "dam_id": "DAM_088",
+    "birth_weight": 2.14,
+    "weaning_weight": null,
+    "average_daily_gain": null
+  },
+  {
+    "kid_id": 23174794,
+    "sire": "SIRE_16",
+    "dam_id": "DAM_025",
+    "birth_weight": 1.77,
+    "weaning_weight": 11.12,
+    "average_daily_gain": 0.0935
+  },
+  {
+    "kid_id": 23113289,
+    "sire": "SIRE_18",
+    "dam_id": "DAM_095",
+    "birth_weight": 3.02,
+    "weaning_weight": 13.49,
+    "average_daily_gain": 0.1047
+  },
+  {
+    "kid_id": 23139556,
+    "sire": "SIRE_04",
+    "dam_id": "DAM_052",
+    "birth_weight": 4.06,
+    "weaning_weight": null,
+    "average_daily_gain": null
+  },
+  {
+    "kid_id": 23145395,
+    "sire": "SIRE_10",
+    "dam_id": "DAM_054",
+    "birth_weight": 2.93,
+    "weaning_weight": 14.27,
+    "average_daily_gain": 0.1134
+  },
+  {
+    "kid_id": 23142374,
+    "sire": "SIRE_15",
+    "dam_id": "DAM_013",
+    "birth_weight": 3.11,
+    "weaning_weight": 16.25,
+    "average_daily_gain": 0.1314
+  },
+  {
+    "kid_id": 23185086,
+    "sire": "SIRE_06",
+    "dam_id": "DAM_096",
+    "birth_weight": 2.94,
+    "weaning_weight": 15.36,
+    "average_daily_gain": 0.1242
+  },
+  {
+    "kid_id": 23196381,
+    "sire": "SIRE_11",
+    "dam_id": "DAM_021",
+    "birth_weight": 2.61,
+    "weaning_weight": null,
+    "average_daily_gain": null
+  },
+  {
+    "kid_id": 23144211,
+    "sire": "SIRE_20",
+    "dam_id": "DAM_012",
+    "birth_weight": 2.86,
+    "weaning_weight": 15.47,
+    "average_daily_gain": 0.1261
+  },
+  {
+    "kid_id": 23192387,
+    "sire": "SIRE_19",
+    "dam_id": "DAM_061",
+    "birth_weight": 3.48,
+    "weaning_weight": 15.38,
+    "average_daily_gain": 0.119
+  },
+  {
+    "kid_id": 23157576,
+    "sire": "SIRE_10",
+    "dam_id": "DAM_054",
+    "birth_weight": 3.27,
+    "weaning_weight": null,
+    "average_daily_gain": null
+  },
+  {
+    "kid_id": 23122829,
+    "sire": "SIRE_09",
+    "dam_id": "DAM_082",
+    "birth_weight": 1.0,
+    "weaning_weight": 7.2,
+    "average_daily_gain": 0.062
+  },
+  {
+    "kid_id": 23185528,
+    "sire": "SIRE_16",
+    "dam_id": "DAM_016",
+    "birth_weight": 3.2,
+    "weaning_weight": 12.38,
+    "average_daily_gain": 0.0918
+  },
+  {
+    "kid_id": 23160323,
+    "sire": "SIRE_18",
+    "dam_id": "DAM_006",
+    "birth_weight": 3.78,
+    "weaning_weight": 15.09,
+    "average_daily_gain": 0.1131
+  },
+  {
+    "kid_id": 23169179,
+    "sire": "SIRE_08",
+    "dam_id": "DAM_063",
+    "birth_weight": 2.7,
+    "weaning_weight": 14.68,
+    "average_daily_gain": 0.1198
+  },
+  {
+    "kid_id": 23184458,
+    "sire": "SIRE_08",
+    "dam_id": "DAM_022",
+    "birth_weight": 2.78,
+    "weaning_weight": null,
+    "average_daily_gain": null
+  },
+  {
+    "kid_id": 23135847,
+    "sire": "SIRE_20",
+    "dam_id": "DAM_064",
+    "birth_weight": 2.71,
+    "weaning_weight": null,
+    "average_daily_gain": null
+  },
+  {
+    "kid_id": 23135257,
+    "sire": "SIRE_11",
+    "dam_id": "DAM_029",
+    "birth_weight": 2.21,
+    "weaning_weight": 14.61,
+    "average_daily_gain": 0.124
+  },
+  {
+    "kid_id": 23181808,
+    "sire": "SIRE_15",
+    "dam_id": "DAM_013",
+    "birth_weight": 2.67,
+    "weaning_weight": 13.2,
+    "average_daily_gain": 0.1053
+  },
+  {
+    "kid_id": 23154705,
+    "sire": "SIRE_13",
+    "dam_id": "DAM_040",
+    "birth_weight": 2.89,
+    "weaning_weight": 12.49,
+    "average_daily_gain": 0.096
+  },
+  {
+    "kid_id": 23147253,
+    "sire": "SIRE_10",
+    "dam_id": "DAM_073",
+    "birth_weight": 3.74,
+    "weaning_weight": 14.97,
+    "average_daily_gain": 0.1123
+  },
+  {
+    "kid_id": 23169240,
+    "sire": "SIRE_14",
+    "dam_id": "DAM_060",
+    "birth_weight": 3.02,
+    "weaning_weight": 14.71,
+    "average_daily_gain": 0.1169
+  },
+  {
+    "kid_id": 23157300,
+    "sire": "SIRE_18",
+    "dam_id": "DAM_035",
+    "birth_weight": 3.09,
+    "weaning_weight": null,
+    "average_daily_gain": null
+  },
+  {
+    "kid_id": 23198755,
+    "sire": "SIRE_13",
+    "dam_id": "DAM_085",
+    "birth_weight": 2.9,
+    "weaning_weight": null,
+    "average_daily_gain": null
+  },
+  {
+    "kid_id": 23136069,
+    "sire": "SIRE_17",
+    "dam_id": "DAM_090",
+    "birth_weight": 2.75,
+    "weaning_weight": 12.29,
+    "average_daily_gain": 0.0954
+  },
+  {
+    "kid_id": 23125505,
+    "sire": "SIRE_10",
+    "dam_id": "DAM_031",
+    "birth_weight": 3.97,
+    "weaning_weight": 19.23,
+    "average_daily_gain": 0.1526
+  },
+  {
+    "kid_id": 23176124,
+    "sire": "SIRE_03",
+    "dam_id": "DAM_074",
+    "birth_weight": 2.79,
+    "weaning_weight": 13.78,
+    "average_daily_gain": 0.1099
+  },
+  {
+    "kid_id": 23123456,
+    "sire": "SIRE_04",
+    "dam_id": "DAM_072",
+    "birth_weight": 2.99,
+    "weaning_weight": 13.85,
+    "average_daily_gain": 0.1086
+  },
+  {
+    "kid_id": 23139738,
+    "sire": "SIRE_16",
+    "dam_id": "DAM_042",
+    "birth_weight": 2.88,
+    "weaning_weight": 12.51,
+    "average_daily_gain": 0.0963
+  },
+  {
+    "kid_id": 23172686,
+    "sire": "SIRE_04",
+    "dam_id": "DAM_041",
+    "birth_weight": 3.3,
+    "weaning_weight": 14.22,
+    "average_daily_gain": 0.1092
+  },
+  {
+    "kid_id": 23184450,
+    "sire": "SIRE_02",
+    "dam_id": "DAM_010",
+    "birth_weight": 3.23,
+    "weaning_weight": null,
+    "average_daily_gain": null
+  },
+  {
+    "kid_id": 23175975,
+    "sire": "SIRE_19",
+    "dam_id": "DAM_067",
+    "birth_weight": 2.98,
+    "weaning_weight": 11.79,
+    "average_daily_gain": 0.0881
+  },
+  {
+    "kid_id": 23182449,
+    "sire": "SIRE_10",
+    "dam_id": "DAM_020",
+    "birth_weight": 2.76,
+    "weaning_weight": 10.96,
+    "average_daily_gain": 0.082
+  },
+  {
+    "kid_id": 23177611,
+    "sire": "SIRE_16",
+    "dam_id": "DAM_025",
+    "birth_weight": 2.29,
+    "weaning_weight": 12.75,
+    "average_daily_gain": 0.1046
+  },
+  {
+    "kid_id": 23188403,
+    "sire": "SIRE_17",
+    "dam_id": "DAM_028",
+    "birth_weight": 2.73,
+    "weaning_weight": null,
+    "average_daily_gain": null
+  },
+  {
+    "kid_id": 23135299,
+    "sire": "SIRE_08",
+    "dam_id": "DAM_068",
+    "birth_weight": 2.89,
+    "weaning_weight": null,
+    "average_daily_gain": null
+  },
+  {
+    "kid_id": 23196451,
+    "sire": "SIRE_10",
+    "dam_id": "DAM_055",
+    "birth_weight": 1.79,
+    "weaning_weight": 11.34,
+    "average_daily_gain": 0.0955
+  },
+  {
+    "kid_id": 23162413,
+    "sire": "SIRE_15",
+    "dam_id": "DAM_062",
+    "birth_weight": 2.86,
+    "weaning_weight": 13.74,
+    "average_daily_gain": 0.1088
+  },
+  {
+    "kid_id": 23115771,
+    "sire": "SIRE_02",
+    "dam_id": "DAM_033",
+    "birth_weight": 3.54,
+    "weaning_weight": 15.49,
+    "average_daily_gain": 0.1195
+  },
+  {
+    "kid_id": 23149633,
+    "sire": "SIRE_02",
+    "dam_id": "DAM_069",
+    "birth_weight": 3.12,
+    "weaning_weight": null,
+    "average_daily_gain": null
+  },
+  {
+    "kid_id": 23173071,
+    "sire": "SIRE_07",
+    "dam_id": "DAM_088",
+    "birth_weight": 3.33,
+    "weaning_weight": 13.93,
+    "average_daily_gain": 0.106
+  },
+  {
+    "kid_id": 23125881,
+    "sire": "SIRE_08",
+    "dam_id": "DAM_094",
+    "birth_weight": 3.11,
+    "weaning_weight": 13.1,
+    "average_daily_gain": 0.0999
+  },
+  {
+    "kid_id": 23187094,
+    "sire": "SIRE_10",
+    "dam_id": "DAM_055",
+    "birth_weight": 3.49,
+    "weaning_weight": 15.39,
+    "average_daily_gain": 0.119
+  },
+  {
+    "kid_id": 23183167,
+    "sire": "SIRE_12",
+    "dam_id": "DAM_034",
+    "birth_weight": 2.46,
+    "weaning_weight": null,
+    "average_daily_gain": null
+  },
+  {
+    "kid_id": 23195899,
+    "sire": "SIRE_17",
+    "dam_id": "DAM_093",
+    "birth_weight": 2.35,
+    "weaning_weight": 13.13,
+    "average_daily_gain": 0.1078
+  },
+  {
+    "kid_id": 23111881,
+    "sire": "SIRE_14",
+    "dam_id": "DAM_075",
+    "birth_weight": 2.63,
+    "weaning_weight": 13.35,
+    "average_daily_gain": 0.1072
+  },
+  {
+    "kid_id": 23119471,
+    "sire": "SIRE_14",
+    "dam_id": "DAM_049",
+    "birth_weight": 1.91,
+    "weaning_weight": 14.36,
+    "average_daily_gain": 0.1245
+  },
+  {
+    "kid_id": 23164559,
+    "sire": "SIRE_09",
+    "dam_id": "DAM_065",
+    "birth_weight": 3.01,
+    "weaning_weight": 14.22,
+    "average_daily_gain": 0.1121
+  },
+  {
+    "kid_id": 23151559,
+    "sire": "SIRE_15",
+    "dam_id": "DAM_059",
+    "birth_weight": 2.74,
+    "weaning_weight": null,
+    "average_daily_gain": null
+  },
+  {
+    "kid_id": 23169168,
+    "sire": "SIRE_09",
+    "dam_id": "DAM_082",
+    "birth_weight": 3.45,
+    "weaning_weight": 13.73,
+    "average_daily_gain": 0.1028
+  },
+  {
+    "kid_id": 23142939,
+    "sire": "SIRE_02",
+    "dam_id": "DAM_001",
+    "birth_weight": 2.17,
+    "weaning_weight": 13.31,
+    "average_daily_gain": 0.1114
+  },
+  {
+    "kid_id": 23122087,
+    "sire": "SIRE_17",
+    "dam_id": "DAM_084",
+    "birth_weight": 2.89,
+    "weaning_weight": 13.04,
+    "average_daily_gain": 0.1015
+  },
+  {
+    "kid_id": 23164441,
+    "sire": "SIRE_20",
+    "dam_id": "DAM_012",
+    "birth_weight": 2.59,
+    "weaning_weight": null,
+    "average_daily_gain": null
+  },
+  {
+    "kid_id": 23135782,
+    "sire": "SIRE_10",
+    "dam_id": "DAM_020",
+    "birth_weight": 3.21,
+    "weaning_weight": 16.96,
+    "average_daily_gain": 0.1375
+  },
+  {
+    "kid_id": 23146096,
+    "sire": "SIRE_15",
+    "dam_id": "DAM_062",
+    "birth_weight": 2.48,
+    "weaning_weight": 15.52,
+    "average_daily_gain": 0.1304
+  },
+  {
+    "kid_id": 23166938,
+    "sire": "SIRE_02",
+    "dam_id": "DAM_007",
+    "birth_weight": 2.73,
+    "weaning_weight": 14.34,
+    "average_daily_gain": 0.1161
+  },
+  {
+    "kid_id": 23132449,
+    "sire": "SIRE_17",
+    "dam_id": "DAM_028",
+    "birth_weight": 3.0,
+    "weaning_weight": 12.9,
+    "average_daily_gain": 0.099
+  },
+  {
+    "kid_id": 23150732,
+    "sire": "SIRE_20",
+    "dam_id": "DAM_012",
+    "birth_weight": 1.79,
+    "weaning_weight": 13.04,
+    "average_daily_gain": 0.1125
+  },
+  {
+    "kid_id": 23124015,
+    "sire": "SIRE_15",
+    "dam_id": "DAM_043",
+    "birth_weight": 2.48,
+    "weaning_weight": 13.04,
+    "average_daily_gain": 0.1056
+  },
+  {
+    "kid_id": 23136556,
+    "sire": "SIRE_02",
+    "dam_id": "DAM_069",
+    "birth_weight": 2.93,
+    "weaning_weight": 12.84,
+    "average_daily_gain": 0.0991
+  },
+  {
+    "kid_id": 23112139,
+    "sire": "SIRE_03",
+    "dam_id": "DAM_100",
+    "birth_weight": 2.82,
+    "weaning_weight": 15.95,
+    "average_daily_gain": 0.1313
+  },
+  {
+    "kid_id": 23171504,
+    "sire": "SIRE_10",
+    "dam_id": "DAM_073",
+    "birth_weight": 3.66,
+    "weaning_weight": 17.69,
+    "average_daily_gain": 0.1403
+  },
+  {
+    "kid_id": 23136727,
+    "sire": "SIRE_09",
+    "dam_id": "DAM_047",
+    "birth_weight": 3.14,
+    "weaning_weight": 15.28,
+    "average_daily_gain": 0.1214
+  },
+  {
+    "kid_id": 23143185,
+    "sire": "SIRE_08",
+    "dam_id": "DAM_068",
+    "birth_weight": 2.03,
+    "weaning_weight": 13.92,
+    "average_daily_gain": 0.1189
+  },
+  {
+    "kid_id": 23171306,
+    "sire": "SIRE_17",
+    "dam_id": "DAM_084",
+    "birth_weight": 2.45,
+    "weaning_weight": 14.81,
+    "average_daily_gain": 0.1236
+  },
+  {
+    "kid_id": 23145520,
+    "sire": "SIRE_02",
+    "dam_id": "DAM_033",
+    "birth_weight": 3.73,
+    "weaning_weight": null,
+    "average_daily_gain": null
+  },
+  {
+    "kid_id": 23125065,
+    "sire": "SIRE_16",
+    "dam_id": "DAM_050",
+    "birth_weight": 2.77,
+    "weaning_weight": 13.74,
+    "average_daily_gain": 0.1097
+  },
+  {
+    "kid_id": 23161287,
+    "sire": "SIRE_07",
+    "dam_id": "DAM_088",
+    "birth_weight": 3.42,
+    "weaning_weight": 14.44,
+    "average_daily_gain": 0.1102
+  },
+  {
+    "kid_id": 23137707,
+    "sire": "SIRE_10",
+    "dam_id": "DAM_054",
+    "birth_weight": 2.47,
+    "weaning_weight": 14.05,
+    "average_daily_gain": 0.1158
+  },
+  {
+    "kid_id": 23130402,
+    "sire": "SIRE_02",
+    "dam_id": "DAM_001",
+    "birth_weight": 2.37,
+    "weaning_weight": 12.49,
+    "average_daily_gain": 0.1012
+  },
+  {
+    "kid_id": 23118894,
+    "sire": "SIRE_09",
+    "dam_id": "DAM_004",
+    "birth_weight": 2.6,
+    "weaning_weight": null,
+    "average_daily_gain": null
+  },
+  {
+    "kid_id": 23140798,
+    "sire": "SIRE_11",
+    "dam_id": "DAM_017",
+    "birth_weight": 2.51,
+    "weaning_weight": 9.95,
+    "average_daily_gain": 0.0744
+  },
+  {
+    "kid_id": 23134156,
+    "sire": "SIRE_04",
+    "dam_id": "DAM_083",
+    "birth_weight": 2.76,
+    "weaning_weight": null,
+    "average_daily_gain": null
+  },
+  {
+    "kid_id": 23113910,
+    "sire": "SIRE_02",
+    "dam_id": "DAM_010",
+    "birth_weight": 2.72,
+    "weaning_weight": 15.81,
+    "average_daily_gain": 0.1309
+  },
+  {
+    "kid_id": 23162878,
+    "sire": "SIRE_13",
+    "dam_id": "DAM_026",
+    "birth_weight": 2.54,
+    "weaning_weight": 13.4,
+    "average_daily_gain": 0.1086
+  },
+  {
+    "kid_id": 23158490,
+    "sire": "SIRE_10",
+    "dam_id": "DAM_076",
+    "birth_weight": 4.11,
+    "weaning_weight": 12.38,
+    "average_daily_gain": 0.0827
+  },
+  {
+    "kid_id": 23147042,
+    "sire": "SIRE_08",
+    "dam_id": "DAM_022",
+    "birth_weight": 2.37,
+    "weaning_weight": 13.37,
+    "average_daily_gain": 0.11
+  },
+  {
+    "kid_id": 23196564,
+    "sire": "SIRE_20",
+    "dam_id": "DAM_012",
+    "birth_weight": 3.02,
+    "weaning_weight": 13.57,
+    "average_daily_gain": 0.1055
+  },
+  {
+    "kid_id": 23124605,
+    "sire": "SIRE_03",
+    "dam_id": "DAM_018",
+    "birth_weight": 3.49,
+    "weaning_weight": 14.81,
+    "average_daily_gain": 0.1132
+  },
+  {
+    "kid_id": 23172923,
+    "sire": "SIRE_03",
+    "dam_id": "DAM_100",
+    "birth_weight": 3.03,
+    "weaning_weight": 12.64,
+    "average_daily_gain": 0.0961
+  },
+  {
+    "kid_id": 23126160,
+    "sire": "SIRE_02",
+    "dam_id": "DAM_045",
+    "birth_weight": 2.89,
+    "weaning_weight": 13.9,
+    "average_daily_gain": 0.1101
+  },
+  {
+    "kid_id": 23195766,
+    "sire": "SIRE_14",
+    "dam_id": "DAM_098",
+    "birth_weight": 1.26,
+    "weaning_weight": 8.11,
+    "average_daily_gain": 0.0685
+  },
+  {
+    "kid_id": 23165543,
+    "sire": "SIRE_04",
+    "dam_id": "DAM_023",
+    "birth_weight": 2.7,
+    "weaning_weight": null,
+    "average_daily_gain": null
+  },
+  {
+    "kid_id": 23132671,
+    "sire": "SIRE_03",
+    "dam_id": "DAM_074",
+    "birth_weight": 2.26,
+    "weaning_weight": 10.67,
+    "average_daily_gain": 0.0841
+  },
+  {
+    "kid_id": 23144555,
+    "sire": "SIRE_04",
+    "dam_id": "DAM_083",
+    "birth_weight": 4.02,
+    "weaning_weight": 14.85,
+    "average_daily_gain": 0.1083
+  },
+  {
+    "kid_id": 23157745,
+    "sire": "SIRE_09",
+    "dam_id": "DAM_005",
+    "birth_weight": 2.06,
+    "weaning_weight": 8.9,
+    "average_daily_gain": 0.0684
+  },
+  {
+    "kid_id": 23165725,
+    "sire": "SIRE_09",
+    "dam_id": "DAM_027",
+    "birth_weight": 2.16,
+    "weaning_weight": 12.23,
+    "average_daily_gain": 0.1007
+  },
+  {
+    "kid_id": 23119343,
+    "sire": "SIRE_04",
+    "dam_id": "DAM_083",
+    "birth_weight": 2.46,
+    "weaning_weight": 12.86,
+    "average_daily_gain": 0.104
+  },
+  {
+    "kid_id": 23177912,
+    "sire": "SIRE_17",
+    "dam_id": "DAM_028",
+    "birth_weight": 3.19,
+    "weaning_weight": null,
+    "average_daily_gain": null
+  },
+  {
+    "kid_id": 23150541,
+    "sire": "SIRE_11",
+    "dam_id": "DAM_057",
+    "birth_weight": 2.17,
+    "weaning_weight": 14.04,
+    "average_daily_gain": 0.1187
+  },
+  {
+    "kid_id": 23142608,
+    "sire": "SIRE_02",
+    "dam_id": "DAM_001",
+    "birth_weight": 1.98,
+    "weaning_weight": 11.63,
+    "average_daily_gain": 0.0965
+  },
+  {
+    "kid_id": 23179617,
+    "sire": "SIRE_09",
+    "dam_id": "DAM_065",
+    "birth_weight": 3.14,
+    "weaning_weight": null,
+    "average_daily_gain": null
+  },
+  {
+    "kid_id": 23118554,
+    "sire": "SIRE_09",
+    "dam_id": "DAM_047",
+    "birth_weight": 3.38,
+    "weaning_weight": null,
+    "average_daily_gain": null
+  },
+  {
+    "kid_id": 23152719,
+    "sire": "SIRE_18",
+    "dam_id": "DAM_006",
+    "birth_weight": 4.12,
+    "weaning_weight": 19.97,
+    "average_daily_gain": 0.1585
+  },
+  {
+    "kid_id": 23151750,
+    "sire": "SIRE_10",
+    "dam_id": "DAM_020",
+    "birth_weight": 2.51,
+    "weaning_weight": 15.91,
+    "average_daily_gain": 0.134
+  },
+  {
+    "kid_id": 23190309,
+    "sire": "SIRE_02",
+    "dam_id": "DAM_010",
+    "birth_weight": 2.02,
+    "weaning_weight": null,
+    "average_daily_gain": null
+  },
+  {
+    "kid_id": 23156929,
+    "sire": "SIRE_03",
+    "dam_id": "DAM_018",
+    "birth_weight": 2.8,
+    "weaning_weight": 12.05,
+    "average_daily_gain": 0.0925
+  },
+  {
+    "kid_id": 23126226,
+    "sire": "SIRE_02",
+    "dam_id": "DAM_033",
+    "birth_weight": 2.39,
+    "weaning_weight": 11.42,
+    "average_daily_gain": 0.0903
+  },
+  {
+    "kid_id": 23157263,
+    "sire": "SIRE_02",
+    "dam_id": "DAM_036",
+    "birth_weight": 3.0,
+    "weaning_weight": 15.65,
+    "average_daily_gain": 0.1265
+  },
+  {
+    "kid_id": 23147681,
+    "sire": "SIRE_11",
+    "dam_id": "DAM_021",
+    "birth_weight": 2.55,
+    "weaning_weight": 12.42,
+    "average_daily_gain": 0.0987
+  },
+  {
+    "kid_id": 23172947,
+    "sire": "SIRE_02",
+    "dam_id": "DAM_010",
+    "birth_weight": 1.98,
+    "weaning_weight": 9.04,
+    "average_daily_gain": 0.0706
+  },
+  {
+    "kid_id": 23151384,
+    "sire": "SIRE_15",
+    "dam_id": "DAM_062",
+    "birth_weight": 2.11,
+    "weaning_weight": 14.62,
+    "average_daily_gain": 0.1251
+  },
+  {
+    "kid_id": 23196635,
+    "sire": "SIRE_10",
+    "dam_id": "DAM_076",
+    "birth_weight": 3.85,
+    "weaning_weight": null,
+    "average_daily_gain": null
+  },
+  {
+    "kid_id": 23122891,
+    "sire": "SIRE_03",
+    "dam_id": "DAM_100",
+    "birth_weight": 2.31,
+    "weaning_weight": 13.16,
+    "average_daily_gain": 0.1085
+  },
+  {
+    "kid_id": 23115609,
+    "sire": "SIRE_02",
+    "dam_id": "DAM_033",
+    "birth_weight": 2.47,
+    "weaning_weight": null,
+    "average_daily_gain": null
+  },
+  {
+    "kid_id": 23192417,
+    "sire": "SIRE_19",
+    "dam_id": "DAM_081",
+    "birth_weight": 2.42,
+    "weaning_weight": null,
+    "average_daily_gain": null
+  },
+  {
+    "kid_id": 23139342,
+    "sire": "SIRE_16",
+    "dam_id": "DAM_050",
+    "birth_weight": 2.96,
+    "weaning_weight": 14.51,
+    "average_daily_gain": 0.1155
+  },
+  {
+    "kid_id": 23181532,
+    "sire": "SIRE_15",
+    "dam_id": "DAM_059",
+    "birth_weight": 2.85,
+    "weaning_weight": 14.73,
+    "average_daily_gain": 0.1188
+  },
+  {
+    "kid_id": 23129517,
+    "sire": "SIRE_10",
+    "dam_id": "DAM_020",
+    "birth_weight": 4.01,
+    "weaning_weight": 18.42,
+    "average_daily_gain": 0.1441
+  },
+  {
+    "kid_id": 23112794,
+    "sire": "SIRE_15",
+    "dam_id": "DAM_059",
+    "birth_weight": 3.86,
+    "weaning_weight": 14.74,
+    "average_daily_gain": 0.1088
+  },
+  {
+    "kid_id": 23149571,
+    "sire": "SIRE_08",
+    "dam_id": "DAM_044",
+    "birth_weight": 2.74,
+    "weaning_weight": 13.34,
+    "average_daily_gain": 0.106
+  },
+  {
+    "kid_id": 23182184,
+    "sire": "SIRE_08",
+    "dam_id": "DAM_094",
+    "birth_weight": 2.59,
+    "weaning_weight": 11.07,
+    "average_daily_gain": 0.0848
+  },
+  {
+    "kid_id": 23134383,
+    "sire": "SIRE_20",
+    "dam_id": "DAM_046",
+    "birth_weight": 3.65,
+    "weaning_weight": 14.07,
+    "average_daily_gain": 0.1042
+  },
+  {
+    "kid_id": 23136209,
+    "sire": "SIRE_07",
+    "dam_id": "DAM_066",
+    "birth_weight": 2.29,
+    "weaning_weight": 11.83,
+    "average_daily_gain": 0.0954
+  },
+  {
+    "kid_id": 23197320,
+    "sire": "SIRE_18",
+    "dam_id": "DAM_035",
+    "birth_weight": 2.92,
+    "weaning_weight": 17.31,
+    "average_daily_gain": 0.1439
+  },
+  {
+    "kid_id": 23137511,
+    "sire": "SIRE_11",
+    "dam_id": "DAM_017",
+    "birth_weight": 3.27,
+    "weaning_weight": 15.19,
+    "average_daily_gain": 0.1192
+  },
+  {
+    "kid_id": 23187692,
+    "sire": "SIRE_08",
+    "dam_id": "DAM_022",
+    "birth_weight": 2.43,
+    "weaning_weight": 13.37,
+    "average_daily_gain": 0.1094
+  },
+  {
+    "kid_id": 23157918,
+    "sire": "SIRE_13",
+    "dam_id": "DAM_026",
+    "birth_weight": 2.01,
+    "weaning_weight": 13.69,
+    "average_daily_gain": 0.1168
+  },
+  {
+    "kid_id": 23126331,
+    "sire": "SIRE_14",
+    "dam_id": "DAM_060",
+    "birth_weight": 3.11,
+    "weaning_weight": null,
+    "average_daily_gain": null
+  },
+  {
+    "kid_id": 23169090,
+    "sire": "SIRE_18",
+    "dam_id": "DAM_095",
+    "birth_weight": 2.72,
+    "weaning_weight": 14.56,
+    "average_daily_gain": 0.1184
+  },
+  {
+    "kid_id": 23192918,
+    "sire": "SIRE_04",
+    "dam_id": "DAM_058",
+    "birth_weight": 2.93,
+    "weaning_weight": null,
+    "average_daily_gain": null
+  },
+  {
+    "kid_id": 23194211,
+    "sire": "SIRE_02",
+    "dam_id": "DAM_069",
+    "birth_weight": 3.04,
+    "weaning_weight": 13.81,
+    "average_daily_gain": 0.1077
+  },
+  {
+    "kid_id": 23140201,
+    "sire": "SIRE_14",
+    "dam_id": "DAM_075",
+    "birth_weight": 1.43,
+    "weaning_weight": 7.4,
+    "average_daily_gain": 0.0597
+  },
+  {
+    "kid_id": 23128277,
+    "sire": "SIRE_09",
+    "dam_id": "DAM_047",
+    "birth_weight": 2.8,
+    "weaning_weight": null,
+    "average_daily_gain": null
+  },
+  {
+    "kid_id": 23194263,
+    "sire": "SIRE_12",
+    "dam_id": "DAM_034",
+    "birth_weight": 2.96,
+    "weaning_weight": 17.45,
+    "average_daily_gain": 0.1449
+  },
+  {
+    "kid_id": 23186579,
+    "sire": "SIRE_11",
+    "dam_id": "DAM_057",
+    "birth_weight": 2.76,
+    "weaning_weight": 13.3,
+    "average_daily_gain": 0.1054
+  },
+  {
+    "kid_id": 23149125,
+    "sire": "SIRE_05",
+    "dam_id": "DAM_078",
+    "birth_weight": 1.26,
+    "weaning_weight": 10.89,
+    "average_daily_gain": 0.0963
+  },
+  {
+    "kid_id": 23131663,
+    "sire": "SIRE_05",
+    "dam_id": "DAM_097",
+    "birth_weight": 1.6,
+    "weaning_weight": null,
+    "average_daily_gain": null
+  },
+  {
+    "kid_id": 23186634,
+    "sire": "SIRE_17",
+    "dam_id": "DAM_019",
+    "birth_weight": 2.35,
+    "weaning_weight": null,
+    "average_daily_gain": null
+  },
+  {
+    "kid_id": 23162164,
+    "sire": "SIRE_17",
+    "dam_id": "DAM_038",
+    "birth_weight": 1.38,
+    "weaning_weight": 11.6,
+    "average_daily_gain": 0.1022
+  },
+  {
+    "kid_id": 23155480,
+    "sire": "SIRE_14",
+    "dam_id": "DAM_049",
+    "birth_weight": 2.6,
+    "weaning_weight": null,
+    "average_daily_gain": null
+  },
+  {
+    "kid_id": 23175646,
+    "sire": "SIRE_19",
+    "dam_id": "DAM_061",
+    "birth_weight": 3.5,
+    "weaning_weight": 10.1,
+    "average_daily_gain": 0.066
+  },
+  {
+    "kid_id": 23121500,
+    "sire": "SIRE_16",
+    "dam_id": "DAM_042",
+    "birth_weight": 2.19,
+    "weaning_weight": 13.87,
+    "average_daily_gain": 0.1168
+  },
+  {
+    "kid_id": 23129908,
+    "sire": "SIRE_17",
+    "dam_id": "DAM_084",
+    "birth_weight": 3.18,
+    "weaning_weight": null,
+    "average_daily_gain": null
+  },
+  {
+    "kid_id": 23175744,
+    "sire": "SIRE_07",
+    "dam_id": "DAM_088",
+    "birth_weight": 2.61,
+    "weaning_weight": null,
+    "average_daily_gain": null
+  },
+  {
+    "kid_id": 23155582,
+    "sire": "SIRE_09",
+    "dam_id": "DAM_047",
+    "birth_weight": 3.49,
+    "weaning_weight": 13.59,
+    "average_daily_gain": 0.101
+  },
+  {
+    "kid_id": 23166396,
+    "sire": "SIRE_19",
+    "dam_id": "DAM_067",
+    "birth_weight": 2.74,
+    "weaning_weight": 10.76,
+    "average_daily_gain": 0.0802
+  },
+  {
+    "kid_id": 23122273,
+    "sire": "SIRE_09",
+    "dam_id": "DAM_005",
+    "birth_weight": 3.35,
+    "weaning_weight": 15.16,
+    "average_daily_gain": 0.1181
+  },
+  {
+    "kid_id": 23193833,
+    "sire": "SIRE_08",
+    "dam_id": "DAM_022",
+    "birth_weight": 2.62,
+    "weaning_weight": 15.12,
+    "average_daily_gain": 0.125
+  },
+  {
+    "kid_id": 23154303,
+    "sire": "SIRE_18",
+    "dam_id": "DAM_035",
+    "birth_weight": 2.29,
+    "weaning_weight": 14.62,
+    "average_daily_gain": 0.1233
+  },
+  {
+    "kid_id": 23127887,
+    "sire": "SIRE_04",
+    "dam_id": "DAM_041",
+    "birth_weight": 3.17,
+    "weaning_weight": null,
+    "average_daily_gain": null
+  },
+  {
+    "kid_id": 23132064,
+    "sire": "SIRE_05",
+    "dam_id": "DAM_009",
+    "birth_weight": 2.96,
+    "weaning_weight": 18.36,
+    "average_daily_gain": 0.154
+  },
+  {
+    "kid_id": 23189574,
+    "sire": "SIRE_20",
+    "dam_id": "DAM_064",
+    "birth_weight": 2.24,
+    "weaning_weight": 13.51,
+    "average_daily_gain": 0.1127
+  },
+  {
+    "kid_id": 23142799,
+    "sire": "SIRE_09",
+    "dam_id": "DAM_004",
+    "birth_weight": 2.44,
+    "weaning_weight": 11.14,
+    "average_daily_gain": 0.087
+  },
+  {
+    "kid_id": 23153067,
+    "sire": "SIRE_06",
+    "dam_id": "DAM_096",
+    "birth_weight": 2.95,
+    "weaning_weight": 13.09,
+    "average_daily_gain": 0.1014
+  },
+  {
+    "kid_id": 23159060,
+    "sire": "SIRE_10",
+    "dam_id": "DAM_031",
+    "birth_weight": 3.0,
+    "weaning_weight": 13.85,
+    "average_daily_gain": 0.1085
+  },
+  {
+    "kid_id": 23137986,
+    "sire": "SIRE_08",
+    "dam_id": "DAM_094",
+    "birth_weight": 1.91,
+    "weaning_weight": null,
+    "average_daily_gain": null
+  },
+  {
+    "kid_id": 23110426,
+    "sire": "SIRE_17",
+    "dam_id": "DAM_084",
+    "birth_weight": 3.22,
+    "weaning_weight": null,
+    "average_daily_gain": null
+  },
+  {
+    "kid_id": 23116230,
+    "sire": "SIRE_17",
+    "dam_id": "DAM_092",
+    "birth_weight": 2.68,
+    "weaning_weight": null,
+    "average_daily_gain": null
+  },
+  {
+    "kid_id": 23181354,
+    "sire": "SIRE_02",
+    "dam_id": "DAM_045",
+    "birth_weight": 3.38,
+    "weaning_weight": 11.82,
+    "average_daily_gain": 0.0844
+  },
+  {
+    "kid_id": 23135990,
+    "sire": "SIRE_05",
+    "dam_id": "DAM_032",
+    "birth_weight": 2.33,
+    "weaning_weight": 13.11,
+    "average_daily_gain": 0.1078
+  },
+  {
+    "kid_id": 23127814,
+    "sire": "SIRE_05",
+    "dam_id": "DAM_097",
+    "birth_weight": 3.37,
+    "weaning_weight": 16.59,
+    "average_daily_gain": 0.1322
+  },
+  {
+    "kid_id": 23121474,
+    "sire": "SIRE_16",
+    "dam_id": "DAM_071",
+    "birth_weight": 1.99,
+    "weaning_weight": null,
+    "average_daily_gain": null
+  },
+  {
+    "kid_id": 23165719,
+    "sire": "SIRE_13",
+    "dam_id": "DAM_085",
+    "birth_weight": 1.54,
+    "weaning_weight": 11.62,
+    "average_daily_gain": 0.1008
+  },
+  {
+    "kid_id": 23193060,
+    "sire": "SIRE_14",
+    "dam_id": "DAM_080",
+    "birth_weight": 3.09,
+    "weaning_weight": 14.35,
+    "average_daily_gain": 0.1126
+  },
+  {
+    "kid_id": 23196882,
+    "sire": "SIRE_17",
+    "dam_id": "DAM_090",
+    "birth_weight": 3.83,
+    "weaning_weight": null,
+    "average_daily_gain": null
+  },
+  {
+    "kid_id": 23178779,
+    "sire": "SIRE_14",
+    "dam_id": "DAM_049",
+    "birth_weight": 2.56,
+    "weaning_weight": null,
+    "average_daily_gain": null
+  },
+  {
+    "kid_id": 23135192,
+    "sire": "SIRE_18",
+    "dam_id": "DAM_037",
+    "birth_weight": 3.0,
+    "weaning_weight": null,
+    "average_daily_gain": null
+  },
+  {
+    "kid_id": 23175145,
+    "sire": "SIRE_14",
+    "dam_id": "DAM_008",
+    "birth_weight": 2.96,
+    "weaning_weight": 12.2,
+    "average_daily_gain": 0.0924
+  },
+  {
+    "kid_id": 23127426,
+    "sire": "SIRE_08",
+    "dam_id": "DAM_094",
+    "birth_weight": 3.6,
+    "weaning_weight": 14.74,
+    "average_daily_gain": 0.1114
+  },
+  {
+    "kid_id": 23138369,
+    "sire": "SIRE_16",
+    "dam_id": "DAM_016",
+    "birth_weight": 1.77,
+    "weaning_weight": 14.9,
+    "average_daily_gain": 0.1313
+  },
+  {
+    "kid_id": 23183642,
+    "sire": "SIRE_08",
+    "dam_id": "DAM_022",
+    "birth_weight": 2.59,
+    "weaning_weight": 14.76,
+    "average_daily_gain": 0.1217
+  },
+  {
+    "kid_id": 23188400,
+    "sire": "SIRE_14",
+    "dam_id": "DAM_098",
+    "birth_weight": 3.47,
+    "weaning_weight": 14.2,
+    "average_daily_gain": 0.1073
+  },
+  {
+    "kid_id": 23141980,
+    "sire": "SIRE_16",
+    "dam_id": "DAM_016",
+    "birth_weight": 2.61,
+    "weaning_weight": 12.27,
+    "average_daily_gain": 0.0966
+  },
+  {
+    "kid_id": 23123373,
+    "sire": "SIRE_11",
+    "dam_id": "DAM_057",
+    "birth_weight": 2.82,
+    "weaning_weight": 15.29,
+    "average_daily_gain": 0.1247
+  },
+  {
+    "kid_id": 23169407,
+    "sire": "SIRE_08",
+    "dam_id": "DAM_063",
+    "birth_weight": 3.01,
+    "weaning_weight": 13.84,
+    "average_daily_gain": 0.1083
+  },
+  {
+    "kid_id": 23187670,
+    "sire": "SIRE_15",
+    "dam_id": "DAM_062",
+    "birth_weight": 1.88,
+    "weaning_weight": null,
+    "average_daily_gain": null
+  },
+  {
+    "kid_id": 23121483,
+    "sire": "SIRE_18",
+    "dam_id": "DAM_035",
+    "birth_weight": 2.43,
+    "weaning_weight": 17.22,
+    "average_daily_gain": 0.1479
+  },
+  {
+    "kid_id": 23146643,
+    "sire": "SIRE_08",
+    "dam_id": "DAM_044",
+    "birth_weight": 3.29,
+    "weaning_weight": null,
+    "average_daily_gain": null
+  },
+  {
+    "kid_id": 23139302,
+    "sire": "SIRE_05",
+    "dam_id": "DAM_078",
+    "birth_weight": 2.43,
+    "weaning_weight": 13.33,
+    "average_daily_gain": 0.109
+  },
+  {
+    "kid_id": 23165479,
+    "sire": "SIRE_02",
+    "dam_id": "DAM_033",
+    "birth_weight": 2.93,
+    "weaning_weight": 12.4,
+    "average_daily_gain": 0.0947
+  },
+  {
+    "kid_id": 23124588,
+    "sire": "SIRE_08",
+    "dam_id": "DAM_044",
+    "birth_weight": 3.26,
+    "weaning_weight": 16.17,
+    "average_daily_gain": 0.1291
+  },
+  {
+    "kid_id": 23191238,
+    "sire": "SIRE_11",
+    "dam_id": "DAM_017",
+    "birth_weight": 2.5,
+    "weaning_weight": 11.94,
+    "average_daily_gain": 0.0944
+  },
+  {
+    "kid_id": 23183993,
+    "sire": "SIRE_11",
+    "dam_id": "DAM_011",
+    "birth_weight": 1.67,
+    "weaning_weight": 12.39,
+    "average_daily_gain": 0.1072
+  },
+  {
+    "kid_id": 23112832,
+    "sire": "SIRE_16",
+    "dam_id": "DAM_051",
+    "birth_weight": 2.64,
+    "weaning_weight": 8.21,
+    "average_daily_gain": 0.0557
+  },
+  {
+    "kid_id": 23118909,
+    "sire": "SIRE_14",
+    "dam_id": "DAM_049",
+    "birth_weight": 3.43,
+    "weaning_weight": 13.54,
+    "average_daily_gain": 0.1011
+  },
+  {
+    "kid_id": 23197596,
+    "sire": "SIRE_02",
+    "dam_id": "DAM_007",
+    "birth_weight": 1.98,
+    "weaning_weight": 14.65,
+    "average_daily_gain": 0.1267
+  },
+  {
+    "kid_id": 23174770,
+    "sire": "SIRE_20",
+    "dam_id": "DAM_064",
+    "birth_weight": 2.91,
+    "weaning_weight": 18.06,
+    "average_daily_gain": 0.1515
+  },
+  {
+    "kid_id": 23111559,
+    "sire": "SIRE_09",
+    "dam_id": "DAM_047",
+    "birth_weight": 2.58,
+    "weaning_weight": 12.15,
+    "average_daily_gain": 0.0957
+  },
+  {
+    "kid_id": 23174546,
+    "sire": "SIRE_02",
+    "dam_id": "DAM_007",
+    "birth_weight": 3.13,
+    "weaning_weight": 14.17,
+    "average_daily_gain": 0.1104
+  },
+  {
+    "kid_id": 23177284,
+    "sire": "SIRE_12",
+    "dam_id": "DAM_079",
+    "birth_weight": 3.87,
+    "weaning_weight": 15.5,
+    "average_daily_gain": 0.1163
+  },
+  {
+    "kid_id": 23127377,
+    "sire": "SIRE_15",
+    "dam_id": "DAM_086",
+    "birth_weight": 2.89,
+    "weaning_weight": 16.91,
+    "average_daily_gain": 0.1402
+  },
+  {
+    "kid_id": 23149147,
+    "sire": "SIRE_19",
+    "dam_id": "DAM_067",
+    "birth_weight": 3.34,
+    "weaning_weight": null,
+    "average_daily_gain": null
+  },
+  {
+    "kid_id": 23173440,
+    "sire": "SIRE_17",
+    "dam_id": "DAM_038",
+    "birth_weight": 3.21,
+    "weaning_weight": 15.72,
+    "average_daily_gain": 0.1251
+  },
+  {
+    "kid_id": 23143239,
+    "sire": "SIRE_16",
+    "dam_id": "DAM_051",
+    "birth_weight": 2.13,
+    "weaning_weight": 10.0,
+    "average_daily_gain": 0.0787
+  },
+  {
+    "kid_id": 23157918,
+    "sire": "SIRE_08",
+    "dam_id": "DAM_022",
+    "birth_weight": 1.62,
+    "weaning_weight": null,
+    "average_daily_gain": null
+  },
+  {
+    "kid_id": 23144814,
+    "sire": "SIRE_10",
+    "dam_id": "DAM_020",
+    "birth_weight": 3.06,
+    "weaning_weight": 10.48,
+    "average_daily_gain": 0.0742
+  },
+  {
+    "kid_id": 23130215,
+    "sire": "SIRE_17",
+    "dam_id": "DAM_090",
+    "birth_weight": 2.83,
+    "weaning_weight": 16.92,
+    "average_daily_gain": 0.1409
+  },
+  {
+    "kid_id": 23118976,
+    "sire": "SIRE_06",
+    "dam_id": "DAM_096",
+    "birth_weight": 2.52,
+    "weaning_weight": 16.49,
+    "average_daily_gain": 0.1397
+  },
+  {
+    "kid_id": 23145564,
+    "sire": "SIRE_09",
+    "dam_id": "DAM_030",
+    "birth_weight": 3.1,
+    "weaning_weight": null,
+    "average_daily_gain": null
+  },
+  {
+    "kid_id": 23175487,
+    "sire": "SIRE_07",
+    "dam_id": "DAM_077",
+    "birth_weight": 3.2,
+    "weaning_weight": null,
+    "average_daily_gain": null
+  },
+  {
+    "kid_id": 23177614,
+    "sire": "SIRE_02",
+    "dam_id": "DAM_036",
+    "birth_weight": 1.99,
+    "weaning_weight": null,
+    "average_daily_gain": null
+  },
+  {
+    "kid_id": 23145016,
+    "sire": "SIRE_17",
+    "dam_id": "DAM_028",
+    "birth_weight": 2.56,
+    "weaning_weight": 12.72,
+    "average_daily_gain": 0.1016
+  },
+  {
+    "kid_id": 23173636,
+    "sire": "SIRE_01",
+    "dam_id": "DAM_056",
+    "birth_weight": 2.28,
+    "weaning_weight": 12.64,
+    "average_daily_gain": 0.1036
+  },
+  {
+    "kid_id": 23148052,
+    "sire": "SIRE_14",
+    "dam_id": "DAM_049",
+    "birth_weight": 2.95,
+    "weaning_weight": null,
+    "average_daily_gain": null
+  },
+  {
+    "kid_id": 23119810,
+    "sire": "SIRE_09",
+    "dam_id": "DAM_082",
+    "birth_weight": 2.04,
+    "weaning_weight": 11.19,
+    "average_daily_gain": 0.0915
+  },
+  {
+    "kid_id": 23134915,
+    "sire": "SIRE_16",
+    "dam_id": "DAM_025",
+    "birth_weight": 3.72,
+    "weaning_weight": null,
+    "average_daily_gain": null
+  },
+  {
+    "kid_id": 23130820,
+    "sire": "SIRE_09",
+    "dam_id": "DAM_047",
+    "birth_weight": 3.07,
+    "weaning_weight": 10.46,
+    "average_daily_gain": 0.0739
+  },
+  {
+    "kid_id": 23191889,
+    "sire": "SIRE_10",
+    "dam_id": "DAM_076",
+    "birth_weight": 4.28,
+    "weaning_weight": 16.95,
+    "average_daily_gain": 0.1267
+  },
+  {
+    "kid_id": 23142894,
+    "sire": "SIRE_16",
+    "dam_id": "DAM_014",
+    "birth_weight": 3.24,
+    "weaning_weight": 16.03,
+    "average_daily_gain": 0.1279
+  },
+  {
+    "kid_id": 23187440,
+    "sire": "SIRE_18",
+    "dam_id": "DAM_037",
+    "birth_weight": 1.92,
+    "weaning_weight": null,
+    "average_daily_gain": null
+  },
+  {
+    "kid_id": 23115313,
+    "sire": "SIRE_08",
+    "dam_id": "DAM_094",
+    "birth_weight": 3.5,
+    "weaning_weight": 14.94,
+    "average_daily_gain": 0.1144
+  },
+  {
+    "kid_id": 23112130,
+    "sire": "SIRE_02",
+    "dam_id": "DAM_087",
+    "birth_weight": 2.05,
+    "weaning_weight": 7.54,
+    "average_daily_gain": 0.0549
+  },
+  {
+    "kid_id": 23149695,
+    "sire": "SIRE_16",
+    "dam_id": "DAM_089",
+    "birth_weight": 2.8,
+    "weaning_weight": 12.89,
+    "average_daily_gain": 0.1009
+  },
+  {
+    "kid_id": 23142291,
+    "sire": "SIRE_09",
+    "dam_id": "DAM_047",
+    "birth_weight": 3.49,
+    "weaning_weight": null,
+    "average_daily_gain": null
+  },
+  {
+    "kid_id": 23162257,
+    "sire": "SIRE_18",
+    "dam_id": "DAM_048",
+    "birth_weight": 3.32,
+    "weaning_weight": null,
+    "average_daily_gain": null
+  },
+  {
+    "kid_id": 23150621,
+    "sire": "SIRE_11",
+    "dam_id": "DAM_057",
+    "birth_weight": 3.26,
+    "weaning_weight": 12.98,
+    "average_daily_gain": 0.0972
+  },
+  {
+    "kid_id": 23199055,
+    "sire": "SIRE_11",
+    "dam_id": "DAM_011",
+    "birth_weight": 2.08,
+    "weaning_weight": 14.06,
+    "average_daily_gain": 0.1198
+  },
+  {
+    "kid_id": 23116182,
+    "sire": "SIRE_13",
+    "dam_id": "DAM_085",
+    "birth_weight": 1.95,
+    "weaning_weight": 15.06,
+    "average_daily_gain": 0.1311
+  },
+  {
+    "kid_id": 23120668,
+    "sire": "SIRE_16",
+    "dam_id": "DAM_089",
+    "birth_weight": 3.42,
+    "weaning_weight": 15.22,
+    "average_daily_gain": 0.118
+  },
+  {
+    "kid_id": 23177409,
+    "sire": "SIRE_09",
+    "dam_id": "DAM_027",
+    "birth_weight": 3.59,
+    "weaning_weight": 14.7,
+    "average_daily_gain": 0.1111
+  },
+  {
+    "kid_id": 23148865,
+    "sire": "SIRE_18",
+    "dam_id": "DAM_035",
+    "birth_weight": 2.46,
+    "weaning_weight": 14.37,
+    "average_daily_gain": 0.1191
+  },
+  {
+    "kid_id": 23129389,
+    "sire": "SIRE_11",
+    "dam_id": "DAM_017",
+    "birth_weight": 1.71,
+    "weaning_weight": 10.8,
+    "average_daily_gain": 0.0909
+  },
+  {
+    "kid_id": 23166643,
+    "sire": "SIRE_18",
+    "dam_id": "DAM_095",
+    "birth_weight": 2.73,
+    "weaning_weight": 11.54,
+    "average_daily_gain": 0.0881
+  },
+  {
+    "kid_id": 23110283,
+    "sire": "SIRE_02",
+    "dam_id": "DAM_069",
+    "birth_weight": 2.38,
+    "weaning_weight": 14.26,
+    "average_daily_gain": 0.1188
+  },
+  {
+    "kid_id": 23130308,
+    "sire": "SIRE_09",
+    "dam_id": "DAM_082",
+    "birth_weight": 2.67,
+    "weaning_weight": 12.69,
+    "average_daily_gain": 0.1002
+  },
+  {
+    "kid_id": 23179245,
+    "sire": "SIRE_15",
+    "dam_id": "DAM_015",
+    "birth_weight": 2.34,
+    "weaning_weight": 10.78,
+    "average_daily_gain": 0.0844
+  },
+  {
+    "kid_id": 23147823,
+    "sire": "SIRE_19",
+    "dam_id": "DAM_024",
+    "birth_weight": 2.36,
+    "weaning_weight": 10.74,
+    "average_daily_gain": 0.0838
+  },
+  {
+    "kid_id": 23160549,
+    "sire": "SIRE_09",
+    "dam_id": "DAM_027",
+    "birth_weight": 3.21,
+    "weaning_weight": 11.63,
+    "average_daily_gain": 0.0842
+  },
+  {
+    "kid_id": 23172956,
+    "sire": "SIRE_13",
+    "dam_id": "DAM_026",
+    "birth_weight": 2.38,
+    "weaning_weight": 13.85,
+    "average_daily_gain": 0.1147
+  },
+  {
+    "kid_id": 23162093,
+    "sire": "SIRE_17",
+    "dam_id": "DAM_038",
+    "birth_weight": 2.05,
+    "weaning_weight": 9.61,
+    "average_daily_gain": 0.0756
+  },
+  {
+    "kid_id": 23170892,
+    "sire": "SIRE_02",
+    "dam_id": "DAM_001",
+    "birth_weight": 3.45,
+    "weaning_weight": 11.12,
+    "average_daily_gain": 0.0767
+  },
+  {
+    "kid_id": 23189465,
+    "sire": "SIRE_09",
+    "dam_id": "DAM_004",
+    "birth_weight": 3.49,
+    "weaning_weight": null,
+    "average_daily_gain": null
+  },
+  {
+    "kid_id": 23175597,
+    "sire": "SIRE_19",
+    "dam_id": "DAM_081",
+    "birth_weight": 2.32,
+    "weaning_weight": 12.47,
+    "average_daily_gain": 0.1015
+  },
+  {
+    "kid_id": 23140453,
+    "sire": "SIRE_14",
+    "dam_id": "DAM_075",
+    "birth_weight": 1.33,
+    "weaning_weight": 12.32,
+    "average_daily_gain": 0.1099
+  },
+  {
+    "kid_id": 23125552,
+    "sire": "SIRE_10",
+    "dam_id": "DAM_020",
+    "birth_weight": 2.79,
+    "weaning_weight": null,
+    "average_daily_gain": null
+  },
+  {
+    "kid_id": 23176694,
+    "sire": "SIRE_02",
+    "dam_id": "DAM_087",
+    "birth_weight": 2.72,
+    "weaning_weight": 12.3,
+    "average_daily_gain": 0.0958
+  },
+  {
+    "kid_id": 23122083,
+    "sire": "SIRE_13",
+    "dam_id": "DAM_099",
+    "birth_weight": 2.79,
+    "weaning_weight": null,
+    "average_daily_gain": null
+  },
+  {
+    "kid_id": 23131881,
+    "sire": "SIRE_17",
+    "dam_id": "DAM_093",
+    "birth_weight": 3.89,
+    "weaning_weight": null,
+    "average_daily_gain": null
+  },
+  {
+    "kid_id": 23117827,
+    "sire": "SIRE_10",
+    "dam_id": "DAM_076",
+    "birth_weight": 3.76,
+    "weaning_weight": 17.91,
+    "average_daily_gain": 0.1415
+  },
+  {
+    "kid_id": 23121791,
+    "sire": "SIRE_11",
+    "dam_id": "DAM_021",
+    "birth_weight": 2.47,
+    "weaning_weight": null,
+    "average_daily_gain": null
+  },
+  {
+    "kid_id": 23131418,
+    "sire": "SIRE_11",
+    "dam_id": "DAM_029",
+    "birth_weight": 2.78,
+    "weaning_weight": 13.72,
+    "average_daily_gain": 0.1094
+  },
+  {
+    "kid_id": 23158496,
+    "sire": "SIRE_19",
+    "dam_id": "DAM_081",
+    "birth_weight": 2.92,
+    "weaning_weight": 13.39,
+    "average_daily_gain": 0.1047
+  },
+  {
+    "kid_id": 23120670,
+    "sire": "SIRE_13",
+    "dam_id": "DAM_026",
+    "birth_weight": 2.57,
+    "weaning_weight": null,
+    "average_daily_gain": null
+  },
+  {
+    "kid_id": 23156207,
+    "sire": "SIRE_04",
+    "dam_id": "DAM_041",
+    "birth_weight": 4.69,
+    "weaning_weight": 13.77,
+    "average_daily_gain": 0.0908
+  },
+  {
+    "kid_id": 23166882,
+    "sire": "SIRE_13",
+    "dam_id": "DAM_040",
+    "birth_weight": 2.06,
+    "weaning_weight": 13.64,
+    "average_daily_gain": 0.1158
+  },
+  {
+    "kid_id": 23180794,
+    "sire": "SIRE_20",
+    "dam_id": "DAM_064",
+    "birth_weight": 3.19,
+    "weaning_weight": 16.61,
+    "average_daily_gain": 0.1342
+  },
+  {
+    "kid_id": 23145345,
+    "sire": "SIRE_17",
+    "dam_id": "DAM_092",
+    "birth_weight": 3.62,
+    "weaning_weight": 10.72,
+    "average_daily_gain": 0.071
+  },
+  {
+    "kid_id": 23116523,
+    "sire": "SIRE_04",
+    "dam_id": "DAM_023",
+    "birth_weight": 3.15,
+    "weaning_weight": 15.78,
+    "average_daily_gain": 0.1263
+  },
+  {
+    "kid_id": 23158731,
+    "sire": "SIRE_10",
+    "dam_id": "DAM_031",
+    "birth_weight": 2.56,
+    "weaning_weight": 13.7,
+    "average_daily_gain": 0.1114
+  },
+  {
+    "kid_id": 23164227,
+    "sire": "SIRE_15",
+    "dam_id": "DAM_013",
+    "birth_weight": 3.01,
+    "weaning_weight": 15.92,
+    "average_daily_gain": 0.1291
+  },
+  {
+    "kid_id": 23119535,
+    "sire": "SIRE_10",
+    "dam_id": "DAM_073",
+    "birth_weight": 3.66,
+    "weaning_weight": 15.55,
+    "average_daily_gain": 0.1189
+  },
+  {
+    "kid_id": 23126857,
+    "sire": "SIRE_08",
+    "dam_id": "DAM_053",
+    "birth_weight": 1.8,
+    "weaning_weight": 13.15,
+    "average_daily_gain": 0.1135
+  },
+  {
+    "kid_id": 23124511,
+    "sire": "SIRE_14",
+    "dam_id": "DAM_075",
+    "birth_weight": 2.47,
+    "weaning_weight": 13.99,
+    "average_daily_gain": 0.1152
+  },
+  {
+    "kid_id": 23198809,
+    "sire": "SIRE_19",
+    "dam_id": "DAM_024",
+    "birth_weight": 2.78,
+    "weaning_weight": 13.34,
+    "average_daily_gain": 0.1056
+  },
+  {
+    "kid_id": 23155462,
+    "sire": "SIRE_15",
+    "dam_id": "DAM_059",
+    "birth_weight": 2.73,
+    "weaning_weight": 12.3,
+    "average_daily_gain": 0.0957
+  },
+  {
+    "kid_id": 23196489,
+    "sire": "SIRE_17",
+    "dam_id": "DAM_092",
+    "birth_weight": 3.71,
+    "weaning_weight": 15.88,
+    "average_daily_gain": 0.1217
+  },
+  {
+    "kid_id": 23136054,
+    "sire": "SIRE_08",
+    "dam_id": "DAM_068",
+    "birth_weight": 2.56,
+    "weaning_weight": 10.99,
+    "average_daily_gain": 0.0843
+  },
+  {
+    "kid_id": 23140325,
+    "sire": "SIRE_14",
+    "dam_id": "DAM_080",
+    "birth_weight": 1.68,
+    "weaning_weight": null,
+    "average_daily_gain": null
+  },
+  {
+    "kid_id": 23183277,
+    "sire": "SIRE_17",
+    "dam_id": "DAM_092",
+    "birth_weight": 4.39,
+    "weaning_weight": null,
+    "average_daily_gain": null
+  },
+  {
+    "kid_id": 23141998,
+    "sire": "SIRE_20",
+    "dam_id": "DAM_064",
+    "birth_weight": 3.82,
+    "weaning_weight": 17.83,
+    "average_daily_gain": 0.1401
+  },
+  {
+    "kid_id": 23129989,
+    "sire": "SIRE_02",
+    "dam_id": "DAM_010",
+    "birth_weight": 2.96,
+    "weaning_weight": 14.03,
+    "average_daily_gain": 0.1107
+  },
+  {
+    "kid_id": 23118759,
+    "sire": "SIRE_11",
+    "dam_id": "DAM_029",
+    "birth_weight": 2.24,
+    "weaning_weight": 12.9,
+    "average_daily_gain": 0.1066
+  },
+  {
+    "kid_id": 23164904,
+    "sire": "SIRE_14",
+    "dam_id": "DAM_098",
+    "birth_weight": 2.83,
+    "weaning_weight": null,
+    "average_daily_gain": null
+  },
+  {
+    "kid_id": 23132455,
+    "sire": "SIRE_05",
+    "dam_id": "DAM_078",
+    "birth_weight": 1.58,
+    "weaning_weight": 12.75,
+    "average_daily_gain": 0.1117
+  },
+  {
+    "kid_id": 23136472,
+    "sire": "SIRE_07",
+    "dam_id": "DAM_066",
+    "birth_weight": 2.29,
+    "weaning_weight": 12.43,
+    "average_daily_gain": 0.1014
+  },
+  {
+    "kid_id": 23150990,
+    "sire": "SIRE_04",
+    "dam_id": "DAM_023",
+    "birth_weight": 2.3,
+    "weaning_weight": 11.36,
+    "average_daily_gain": 0.0906
+  },
+  {
+    "kid_id": 23164488,
+    "sire": "SIRE_16",
+    "dam_id": "DAM_050",
+    "birth_weight": 2.52,
+    "weaning_weight": 14.21,
+    "average_daily_gain": 0.1169
+  },
+  {
+    "kid_id": 23183641,
+    "sire": "SIRE_02",
+    "dam_id": "DAM_087",
+    "birth_weight": 2.97,
+    "weaning_weight": 13.81,
+    "average_daily_gain": 0.1084
+  },
+  {
+    "kid_id": 23147472,
+    "sire": "SIRE_18",
+    "dam_id": "DAM_095",
+    "birth_weight": 2.62,
+    "weaning_weight": 11.0,
+    "average_daily_gain": 0.0838
+  },
+  {
+    "kid_id": 23157229,
+    "sire": "SIRE_02",
+    "dam_id": "DAM_087",
+    "birth_weight": 2.5,
+    "weaning_weight": 10.99,
+    "average_daily_gain": 0.0849
+  },
+  {
+    "kid_id": 23159288,
+    "sire": "SIRE_10",
+    "dam_id": "DAM_054",
+    "birth_weight": 2.79,
+    "weaning_weight": 17.98,
+    "average_daily_gain": 0.1519
+  },
+  {
+    "kid_id": 23181596,
+    "sire": "SIRE_19",
+    "dam_id": "DAM_024",
+    "birth_weight": 2.87,
+    "weaning_weight": 11.77,
+    "average_daily_gain": 0.089
+  },
+  {
+    "kid_id": 23149830,
+    "sire": "SIRE_04",
+    "dam_id": "DAM_072",
+    "birth_weight": 3.01,
+    "weaning_weight": 9.62,
+    "average_daily_gain": 0.0661
+  },
+  {
+    "kid_id": 23193520,
+    "sire": "SIRE_10",
+    "dam_id": "DAM_054",
+    "birth_weight": 4.23,
+    "weaning_weight": null,
+    "average_daily_gain": null
+  },
+  {
+    "kid_id": 23115503,
+    "sire": "SIRE_09",
+    "dam_id": "DAM_065",
+    "birth_weight": 3.39,
+    "weaning_weight": 14.44,
+    "average_daily_gain": 0.1105
+  },
+  {
+    "kid_id": 23185346,
+    "sire": "SIRE_09",
+    "dam_id": "DAM_082",
+    "birth_weight": 1.38,
+    "weaning_weight": 12.01,
+    "average_daily_gain": 0.1063
+  },
+  {
+    "kid_id": 23121564,
+    "sire": "SIRE_15",
+    "dam_id": "DAM_015",
+    "birth_weight": 2.22,
+    "weaning_weight": 12.76,
+    "average_daily_gain": 0.1054
+  },
+  {
+    "kid_id": 23171020,
+    "sire": "SIRE_17",
+    "dam_id": "DAM_093",
+    "birth_weight": 2.61,
+    "weaning_weight": 13.91,
+    "average_daily_gain": 0.113
+  },
+  {
+    "kid_id": 23136186,
+    "sire": "SIRE_08",
+    "dam_id": "DAM_022",
+    "birth_weight": 3.34,
+    "weaning_weight": null,
+    "average_daily_gain": null
+  },
+  {
+    "kid_id": 23144237,
+    "sire": "SIRE_14",
+    "dam_id": "DAM_008",
+    "birth_weight": 3.92,
+    "weaning_weight": 17.57,
+    "average_daily_gain": 0.1365
+  },
+  {
+    "kid_id": 23112709,
+    "sire": "SIRE_16",
+    "dam_id": "DAM_014",
+    "birth_weight": 2.34,
+    "weaning_weight": 11.84,
+    "average_daily_gain": 0.095
+  },
+  {
+    "kid_id": 23117652,
+    "sire": "SIRE_05",
+    "dam_id": "DAM_078",
+    "birth_weight": 2.58,
+    "weaning_weight": 12.79,
+    "average_daily_gain": 0.1021
+  },
+  {
+    "kid_id": 23137677,
+    "sire": "SIRE_20",
+    "dam_id": "DAM_064",
+    "birth_weight": 2.6,
+    "weaning_weight": 10.95,
+    "average_daily_gain": 0.0835
+  },
+  {
+    "kid_id": 23147309,
+    "sire": "SIRE_02",
+    "dam_id": "DAM_045",
+    "birth_weight": 3.38,
+    "weaning_weight": 12.45,
+    "average_daily_gain": 0.0907
+  },
+  {
+    "kid_id": 23116140,
+    "sire": "SIRE_11",
+    "dam_id": "DAM_017",
+    "birth_weight": 2.16,
+    "weaning_weight": 13.11,
+    "average_daily_gain": 0.1095
+  },
+  {
+    "kid_id": 23147973,
+    "sire": "SIRE_16",
+    "dam_id": "DAM_016",
+    "birth_weight": 3.81,
+    "weaning_weight": 16.43,
+    "average_daily_gain": 0.1262
+  },
+  {
+    "kid_id": 23172016,
+    "sire": "SIRE_12",
+    "dam_id": "DAM_034",
+    "birth_weight": 3.39,
+    "weaning_weight": 13.44,
+    "average_daily_gain": 0.1005
+  },
+  {
+    "kid_id": 23189331,
+    "sire": "SIRE_14",
+    "dam_id": "DAM_008",
+    "birth_weight": 2.94,
+    "weaning_weight": 12.91,
+    "average_daily_gain": 0.0997
+  },
+  {
+    "kid_id": 23177739,
+    "sire": "SIRE_08",
+    "dam_id": "DAM_022",
+    "birth_weight": 2.23,
+    "weaning_weight": 12.01,
+    "average_daily_gain": 0.0978
+  },
+  {
+    "kid_id": 23120038,
+    "sire": "SIRE_09",
+    "dam_id": "DAM_030",
+    "birth_weight": 2.42,
+    "weaning_weight": 14.78,
+    "average_daily_gain": 0.1236
+  },
+  {
+    "kid_id": 23140528,
+    "sire": "SIRE_01",
+    "dam_id": "DAM_056",
+    "birth_weight": 3.97,
+    "weaning_weight": 20.4,
+    "average_daily_gain": 0.1643
+  },
+  {
+    "kid_id": 23123960,
+    "sire": "SIRE_08",
+    "dam_id": "DAM_063",
+    "birth_weight": 2.74,
+    "weaning_weight": null,
+    "average_daily_gain": null
+  },
+  {
+    "kid_id": 23165565,
+    "sire": "SIRE_08",
+    "dam_id": "DAM_068",
+    "birth_weight": 2.32,
+    "weaning_weight": null,
+    "average_daily_gain": null
+  },
+  {
+    "kid_id": 23177614,
+    "sire": "SIRE_02",
+    "dam_id": "DAM_045",
+    "birth_weight": 2.73,
+    "weaning_weight": null,
+    "average_daily_gain": null
+  },
+  {
+    "kid_id": 23199646,
+    "sire": "SIRE_04",
+    "dam_id": "DAM_023",
+    "birth_weight": 2.36,
+    "weaning_weight": 17.29,
+    "average_daily_gain": 0.1493
+  },
+  {
+    "kid_id": 23179385,
+    "sire": "SIRE_19",
+    "dam_id": "DAM_024",
+    "birth_weight": 2.56,
+    "weaning_weight": 12.35,
+    "average_daily_gain": 0.0979
+  },
+  {
+    "kid_id": 23113342,
+    "sire": "SIRE_07",
+    "dam_id": "DAM_077",
+    "birth_weight": 1.94,
+    "weaning_weight": 15.21,
+    "average_daily_gain": 0.1327
+  },
+  {
+    "kid_id": 23117437,
+    "sire": "SIRE_15",
+    "dam_id": "DAM_062",
+    "birth_weight": 3.02,
+    "weaning_weight": 11.72,
+    "average_daily_gain": 0.087
+  },
+  {
+    "kid_id": 23196307,
+    "sire": "SIRE_08",
+    "dam_id": "DAM_053",
+    "birth_weight": 2.02,
+    "weaning_weight": null,
+    "average_daily_gain": null
+  },
+  {
+    "kid_id": 23120800,
+    "sire": "SIRE_14",
+    "dam_id": "DAM_008",
+    "birth_weight": 2.81,
+    "weaning_weight": 9.29,
+    "average_daily_gain": 0.0648
+  },
+  {
+    "kid_id": 23156317,
+    "sire": "SIRE_17",
+    "dam_id": "DAM_093",
+    "birth_weight": 3.35,
+    "weaning_weight": 16.37,
+    "average_daily_gain": 0.1302
+  },
+  {
+    "kid_id": 23197129,
+    "sire": "SIRE_05",
+    "dam_id": "DAM_097",
+    "birth_weight": 1.59,
+    "weaning_weight": 11.58,
+    "average_daily_gain": 0.0999
+  },
+  {
+    "kid_id": 23148337,
+    "sire": "SIRE_08",
+    "dam_id": "DAM_022",
+    "birth_weight": 1.69,
+    "weaning_weight": 12.04,
+    "average_daily_gain": 0.1035
+  },
+  {
+    "kid_id": 23168154,
+    "sire": "SIRE_08",
+    "dam_id": "DAM_044",
+    "birth_weight": 2.52,
+    "weaning_weight": 10.42,
+    "average_daily_gain": 0.079
+  },
+  {
+    "kid_id": 23173851,
+    "sire": "SIRE_09",
+    "dam_id": "DAM_004",
+    "birth_weight": 2.56,
+    "weaning_weight": null,
+    "average_daily_gain": null
+  },
+  {
+    "kid_id": 23119500,
+    "sire": "SIRE_18",
+    "dam_id": "DAM_095",
+    "birth_weight": 2.68,
+    "weaning_weight": 13.76,
+    "average_daily_gain": 0.1108
+  },
+  {
+    "kid_id": 23127570,
+    "sire": "SIRE_02",
+    "dam_id": "DAM_033",
+    "birth_weight": 2.64,
+    "weaning_weight": 12.7,
+    "average_daily_gain": 0.1006
+  },
+  {
+    "kid_id": 23136062,
+    "sire": "SIRE_10",
+    "dam_id": "DAM_076",
+    "birth_weight": 1.9,
+    "weaning_weight": 13.02,
+    "average_daily_gain": 0.1112
+  },
+  {
+    "kid_id": 23195001,
+    "sire": "SIRE_16",
+    "dam_id": "DAM_051",
+    "birth_weight": 2.94,
+    "weaning_weight": null,
+    "average_daily_gain": null
+  },
+  {
+    "kid_id": 23142399,
+    "sire": "SIRE_03",
+    "dam_id": "DAM_100",
+    "birth_weight": 1.66,
+    "weaning_weight": 11.49,
+    "average_daily_gain": 0.0983
+  },
+  {
+    "kid_id": 23141480,
+    "sire": "SIRE_13",
+    "dam_id": "DAM_026",
+    "birth_weight": 2.62,
+    "weaning_weight": 12.91,
+    "average_daily_gain": 0.1029
+  },
+  {
+    "kid_id": 23177571,
+    "sire": "SIRE_03",
+    "dam_id": "DAM_100",
+    "birth_weight": 3.43,
+    "weaning_weight": 15.21,
+    "average_daily_gain": 0.1178
+  },
+  {
+    "kid_id": 23140679,
+    "sire": "SIRE_20",
+    "dam_id": "DAM_064",
+    "birth_weight": 1.45,
+    "weaning_weight": 12.59,
+    "average_daily_gain": 0.1114
+  },
+  {
+    "kid_id": 23139018,
+    "sire": "SIRE_11",
+    "dam_id": "DAM_021",
+    "birth_weight": 3.05,
+    "weaning_weight": 13.09,
+    "average_daily_gain": 0.1004
+  },
+  {
+    "kid_id": 23130236,
+    "sire": "SIRE_10",
+    "dam_id": "DAM_031",
+    "birth_weight": 3.59,
+    "weaning_weight": 18.1,
+    "average_daily_gain": 0.1451
+  },
+  {
+    "kid_id": 23150406,
+    "sire": "SIRE_13",
+    "dam_id": "DAM_099",
+    "birth_weight": 2.38,
+    "weaning_weight": 14.55,
+    "average_daily_gain": 0.1217
+  },
+  {
+    "kid_id": 23196449,
+    "sire": "SIRE_09",
+    "dam_id": "DAM_027",
+    "birth_weight": 2.08,
+    "weaning_weight": null,
+    "average_daily_gain": null
+  },
+  {
+    "kid_id": 23117252,
+    "sire": "SIRE_11",
+    "dam_id": "DAM_057",
+    "birth_weight": 2.71,
+    "weaning_weight": 14.35,
+    "average_daily_gain": 0.1164
+  },
+  {
+    "kid_id": 23147129,
+    "sire": "SIRE_04",
+    "dam_id": "DAM_041",
+    "birth_weight": 3.82,
+    "weaning_weight": 13.63,
+    "average_daily_gain": 0.0981
+  },
+  {
+    "kid_id": 23148166,
+    "sire": "SIRE_12",
+    "dam_id": "DAM_034",
+    "birth_weight": 2.98,
+    "weaning_weight": 15.54,
+    "average_daily_gain": 0.1256
+  },
+  {
+    "kid_id": 23157916,
+    "sire": "SIRE_15",
+    "dam_id": "DAM_086",
+    "birth_weight": 2.04,
+    "weaning_weight": 8.67,
+    "average_daily_gain": 0.0663
+  },
+  {
+    "kid_id": 23119433,
+    "sire": "SIRE_10",
+    "dam_id": "DAM_076",
+    "birth_weight": 2.39,
+    "weaning_weight": null,
+    "average_daily_gain": null
+  },
+  {
+    "kid_id": 23197847,
+    "sire": "SIRE_05",
+    "dam_id": "DAM_032",
+    "birth_weight": 2.17,
+    "weaning_weight": 12.56,
+    "average_daily_gain": 0.1039
+  },
+  {
+    "kid_id": 23190259,
+    "sire": "SIRE_17",
+    "dam_id": "DAM_028",
+    "birth_weight": 3.34,
+    "weaning_weight": 15.07,
+    "average_daily_gain": 0.1173
+  },
+  {
+    "kid_id": 23193080,
+    "sire": "SIRE_15",
+    "dam_id": "DAM_059",
+    "birth_weight": 2.74,
+    "weaning_weight": 15.32,
+    "average_daily_gain": 0.1258
+  },
+  {
+    "kid_id": 23119234,
+    "sire": "SIRE_16",
+    "dam_id": "DAM_016",
+    "birth_weight": 2.06,
+    "weaning_weight": 13.36,
+    "average_daily_gain": 0.113
+  },
+  {
+    "kid_id": 23170737,
+    "sire": "SIRE_02",
+    "dam_id": "DAM_045",
+    "birth_weight": 3.68,
+    "weaning_weight": 17.17,
+    "average_daily_gain": 0.1349
+  },
+  {
+    "kid_id": 23166407,
+    "sire": "SIRE_17",
+    "dam_id": "DAM_090",
+    "birth_weight": 3.03,
+    "weaning_weight": 13.29,
+    "average_daily_gain": 0.1026
+  }
+]
