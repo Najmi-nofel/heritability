@@ -48,6 +48,8 @@ import {
   RocketLaunch,
 } from "@mui/icons-material";
 import DarkModeToggle from "@/components/DarkModeToggle";
+
+import demoData from "@/data/demo_data.json";
 import HiddenInput from "@/components/HiddenInput";
 import DataChart from "../lib/DataChart.js";
 import DualAxisAreaChart from "@/components/Line2Y";
@@ -205,16 +207,6 @@ export default function Home() {
     setIsLoading(true);
 
     try {
-      const res = await fetch("/demo_data.json");
-
-      if (!res.ok) {
-        throw new Error(
-          "Failed to retrieve the JSON file from the public folder",
-        );
-      }
-
-      const demoData = await res.json();
-
       setFileName("demo_data.json");
       setFileExcel(demoData);
       setFaktorSelect("sire");
